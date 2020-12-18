@@ -1,0 +1,415 @@
+
+Csquid:S1659",Declare "CV_CAP_ANDROID" on a separate line.(Âõ”Æ
+Msquid:S1659"1Declare "CV_CAP_ANDROID_BACK" on a separate line.(´ğ„æüÿÿÿÿ
+Hsquid:S1659"2Declare "CV_CAP_ANDROID_FRONT" on a separate line.(îÊŠT
+Asquid:S1659"*Declare "CV_CAP_XIAPI" on a separate line.(³ºô
+Msquid:S1659"1Declare "CV_CAP_AVFOUNDATION" on a separate line.(¸ÔÔ‡ùÿÿÿÿ
+Jsquid:S1659".Declare "CV_CAP_GIGANETIX" on a separate line.(¼Î—®ùÿÿÿÿ
+Csquid:S1659",Declare "CV_CAP_GPHOTO2" on a separate line.(±Ï˜Â
+Esquid:S1659".Declare "CV_CAP_GSTREAMER" on a separate line.(ºª¥
+Gsquid:S1659"+Declare "CV_CAP_FFMPEG" on a separate line.(¦İÆÌıÿÿÿÿ
+Bsquid:S1659"+Declare "CV_CAP_IMAGES" on a separate line.(™É¬ƒ
+Lsquid:S1659"5Declare "CV_CAP_PROP_FRAME_WIDTH" on a separate line.(ù¾€
+Rsquid:S1659"6Declare "CV_CAP_PROP_FRAME_HEIGHT" on a separate line.(·©³ÿÿÿÿÿ
+Dsquid:S1659".Declare "CV_CAP_PROP_ZOOM" on a separate line.(Â£#
+Esquid:S1659"/Declare "CV_CAP_PROP_FOCUS" on a separate line.(ˆÙàz
+Jsquid:S1659".Declare "CV_CAP_PROP_GUID" on a separate line.(£ÃçÍûÿÿÿÿ
+Osquid:S1659"3Declare "CV_CAP_PROP_ISO_SPEED" on a separate line.(Ã·šŞûÿÿÿÿ
+Jsquid:S1659"3Declare "CV_CAP_PROP_BACKLIGHT" on a separate line.(ÚÆÌÅ
+Isquid:S1659"-Declare "CV_CAP_PROP_PAN" on a separate line.(é‰Ôşÿÿÿÿ
+Jsquid:S1659".Declare "CV_CAP_PROP_TILT" on a separate line.(¼¹…¼ùÿÿÿÿ
+Esquid:S1659 ".Declare "CV_CAP_PROP_ROLL" on a separate line.(ÕßŒ‚
+Jsquid:S1659!".Declare "CV_CAP_PROP_IRIS" on a separate line.(÷éè¤úÿÿÿÿ
+Nsquid:S1659""2Declare "CV_CAP_PROP_SETTINGS" on a separate line.( Üâœùÿÿÿÿ
+Psquid:S1659#"4Declare "CV_CAP_PROP_BUFFERSIZE" on a separate line.(Ç¶îÁøÿÿÿÿ
+Osquid:S1659$"3Declare "CV_CAP_PROP_AUTOFOCUS" on a separate line.(·®´Ìşÿÿÿÿ
+Msquid:S1659%"1Declare "CV_CAP_PROP_SAR_NUM" on a separate line.(É¢æ¾ÿÿÿÿÿ
+Msquid:S1659&"1Declare "CV_CAP_PROP_SAR_DEN" on a separate line.(û¼ÎËûÿÿÿÿ
+Isquid:S1659'"2Declare "CV_CAP_PROP_AUTOGRAB" on a separate line.(µÅé¨
+Osquid:S1659("8Declare "CV_CAP_PROP_PREVIEW_FORMAT" on a separate line.(â×ª
+Msquid:S1659)"6Declare "CV_CAP_PROP_OPENNI2_SYNC" on a separate line.(¤Ì…Ï
+Nsquid:S1659*"8Declare "CV_CAP_PROP_OPENNI2_MIRROR" on a separate line.(¢«˜o
+asquid:S1659+"EDeclare "CV_CAP_PROP_PVAPI_FRAMESTARTTRIGGERMODE" on a separate line.(Âá¤Âıÿÿÿÿ
+`squid:S1659,"DDeclare "CV_CAP_PROP_PVAPI_DECIMATIONHORIZONTAL" on a separate line.(àÓÌòÿÿÿÿÿ
+Ysquid:S1659-"BDeclare "CV_CAP_PROP_PVAPI_DECIMATIONVERTICAL" on a separate line.(Î‹òï
+Tsquid:S1659."8Declare "CV_CAP_PROP_PVAPI_BINNINGX" on a separate line.(¡°¹Œøÿÿÿÿ
+Osquid:S1659/"8Declare "CV_CAP_PROP_PVAPI_BINNINGY" on a separate line.(ò£°
+Wsquid:S16590";Declare "CV_CAP_PROP_PVAPI_PIXELFORMAT" on a separate line.(Ü¢´¶ÿÿÿÿÿ
+Usquid:S16591"9Declare "CV_CAP_PROP_XI_DOWNSAMPLING" on a separate line.(çñŸšşÿÿÿÿ
+Osquid:S16592"8Declare "CV_CAP_PROP_XI_DATA_FORMAT" on a separate line.(«œÒ
+Qsquid:S16593"5Declare "CV_CAP_PROP_XI_OFFSET_X" on a separate line.(ç·åøÿÿÿÿ
+Lsquid:S16594"5Declare "CV_CAP_PROP_XI_OFFSET_Y" on a separate line.(ù…Ø¹
+Nsquid:S16595"7Declare "CV_CAP_PROP_XI_TRG_SOURCE" on a separate line.(è©½
+Psquid:S16596"9Declare "CV_CAP_PROP_XI_TRG_SOFTWARE" on a separate line.(êı‚±
+Psquid:S16597"9Declare "CV_CAP_PROP_XI_GPI_SELECTOR" on a separate line.(îÓÚ‹
+Qsquid:S16598"5Declare "CV_CAP_PROP_XI_GPI_MODE" on a separate line.(Ÿãøüÿÿÿÿ
+Msquid:S16599"6Declare "CV_CAP_PROP_XI_GPI_LEVEL" on a separate line.(¤õ±»
+Usquid:S1659:"9Declare "CV_CAP_PROP_XI_GPO_SELECTOR" on a separate line.(‹§ş¯şÿÿÿÿ
+Ksquid:S1659;"5Declare "CV_CAP_PROP_XI_GPO_MODE" on a separate line.(ùô›9
+Usquid:S1659<"9Declare "CV_CAP_PROP_XI_LED_SELECTOR" on a separate line.(¹ï÷…şÿÿÿÿ
+Ksquid:S1659="5Declare "CV_CAP_PROP_XI_LED_MODE" on a separate line.(Üõ$
+Rsquid:S1659>"6Declare "CV_CAP_PROP_XI_MANUAL_WB" on a separate line.(÷Êî…ıÿÿÿÿ
+Jsquid:S1659?"4Declare "CV_CAP_PROP_XI_AUTO_WB" on a separate line.(§ÖËI
+Msquid:S1659@"1Declare "CV_CAP_PROP_XI_AEAG" on a separate line.(Ô¯Ü…ıÿÿÿÿ
+Osquid:S1659A"9Declare "CV_CAP_PROP_XI_EXP_PRIORITY" on a separate line.(÷™ô4
+Psquid:S1659B"9Declare "CV_CAP_PROP_XI_AE_MAX_LIMIT" on a separate line.(ûÔÁú
+Usquid:S1659C"9Declare "CV_CAP_PROP_XI_AG_MAX_LIMIT" on a separate line.(·Ä¥³şÿÿÿÿ
+Msquid:S1659D"7Declare "CV_CAP_PROP_XI_AEAG_LEVEL" on a separate line.(‚¼É}
+Psquid:S1659E"4Declare "CV_CAP_PROP_XI_TIMEOUT" on a separate line.(›Äôùÿÿÿÿ
+Ksquid:S1659F"5Declare "CV_CAP_PROP_XI_EXPOSURE" on a separate line.(­ß1
+Xsquid:S1659G"ADeclare "CV_CAP_PROP_XI_EXPOSURE_BURST_COUNT" on a separate line.(çŞ˜¯
+Vsquid:S1659H":Declare "CV_CAP_PROP_XI_GAIN_SELECTOR" on a separate line.(ñÜ¶´ùÿÿÿÿ
+Hsquid:S1659I"1Declare "CV_CAP_PROP_XI_GAIN" on a separate line.(°ÇÃ
+Usquid:S1659J">Declare "CV_CAP_PROP_XI_DOWNSAMPLING_TYPE" on a separate line.(éÃÚ¯
+Ysquid:S1659K"=Declare "CV_CAP_PROP_XI_BINNING_SELECTOR" on a separate line.(¡ï•ûÿÿÿÿ
+Tsquid:S1659L"=Declare "CV_CAP_PROP_XI_BINNING_VERTICAL" on a separate line.(‘Ñ¶Õ
+Vsquid:S1659M"?Declare "CV_CAP_PROP_XI_BINNING_HORIZONTAL" on a separate line.(—ï±‡
+Ssquid:S1659N"<Declare "CV_CAP_PROP_XI_BINNING_PATTERN" on a separate line.(¨È×Ø
+Wsquid:S1659O"@Declare "CV_CAP_PROP_XI_DECIMATION_SELECTOR" on a separate line.(àÓÁÇ
+\squid:S1659P"@Declare "CV_CAP_PROP_XI_DECIMATION_VERTICAL" on a separate line.(«ÿ©Áûÿÿÿÿ
+^squid:S1659Q"BDeclare "CV_CAP_PROP_XI_DECIMATION_HORIZONTAL" on a separate line.(Ğ÷³Öúÿÿÿÿ
+Vsquid:S1659R"?Declare "CV_CAP_PROP_XI_DECIMATION_PATTERN" on a separate line.(®›™
+Usquid:S1659S">Declare "CV_CAP_PROP_XI_IMAGE_DATA_FORMAT" on a separate line.(€àú
+Psquid:S1659T"9Declare "CV_CAP_PROP_XI_SHUTTER_TYPE" on a separate line.(¯üú¨
+Osquid:S1659U"8Declare "CV_CAP_PROP_XI_SENSOR_TAPS" on a separate line.(Û»¥ˆ
+Zsquid:S1659V">Declare "CV_CAP_PROP_XI_AEAG_ROI_OFFSET_X" on a separate line.(»›÷Âùÿÿÿÿ
+Usquid:S1659W">Declare "CV_CAP_PROP_XI_AEAG_ROI_OFFSET_Y" on a separate line.(‹ÅšÊ
+Wsquid:S1659X";Declare "CV_CAP_PROP_XI_AEAG_ROI_WIDTH" on a separate line.(×æ¹Ğıÿÿÿÿ
+Xsquid:S1659Y"<Declare "CV_CAP_PROP_XI_AEAG_ROI_HEIGHT" on a separate line.(Ù…“Íÿÿÿÿÿ
+Lsquid:S1659Z"0Declare "CV_CAP_PROP_XI_BPC" on a separate line.(¦«´Ÿúÿÿÿÿ
+Nsquid:S1659["2Declare "CV_CAP_PROP_XI_WB_KR" on a separate line.(ÜÇäâúÿÿÿÿ
+Nsquid:S1659\"2Declare "CV_CAP_PROP_XI_WB_KG" on a separate line.( Œ›ûıÿÿÿÿ
+Nsquid:S1659]"2Declare "CV_CAP_PROP_XI_WB_KB" on a separate line.(‹Íùşÿÿÿÿ
+Isquid:S1659^"2Declare "CV_CAP_PROP_XI_WIDTH" on a separate line.(×í×
+Jsquid:S1659_"3Declare "CV_CAP_PROP_XI_HEIGHT" on a separate line.(ÀªÅ­
+Xsquid:S1659`"<Declare "CV_CAP_PROP_XI_LIMIT_BANDWIDTH" on a separate line.(ê´´³øÿÿÿÿ
+^squid:S1659a"BDeclare "CV_CAP_PROP_XI_SENSOR_DATA_BIT_DEPTH" on a separate line.(ãÊ×üÿÿÿÿ
+Ysquid:S1659b"BDeclare "CV_CAP_PROP_XI_OUTPUT_DATA_BIT_DEPTH" on a separate line.(óî…é
+Xsquid:S1659c"ADeclare "CV_CAP_PROP_XI_IMAGE_DATA_BIT_DEPTH" on a separate line.(™·ş¿
+Vsquid:S1659d"@Declare "CV_CAP_PROP_XI_OUTPUT_DATA_PACKING" on a separate line.(‰ÀY
+[squid:S1659e"EDeclare "CV_CAP_PROP_XI_OUTPUT_DATA_PACKING_TYPE" on a separate line.(À¬¦
+Rsquid:S1659f"6Declare "CV_CAP_PROP_XI_IS_COOLED" on a separate line.(·Ûñşÿÿÿÿ
+Ksquid:S1659g"4Declare "CV_CAP_PROP_XI_COOLING" on a separate line.(èÍĞ¯
+Tsquid:S1659h"8Declare "CV_CAP_PROP_XI_TARGET_TEMP" on a separate line.(ëóÑÓúÿÿÿÿ
+Msquid:S1659i"6Declare "CV_CAP_PROP_XI_CHIP_TEMP" on a separate line.(öÚ¢Ô
+Msquid:S1659j"6Declare "CV_CAP_PROP_XI_HOUS_TEMP" on a separate line.(ƒ¤ò
+Gsquid:S1659k"0Declare "CV_CAP_PROP_XI_CMS" on a separate line.(¢ÍĞá
+Rsquid:S1659l"6Declare "CV_CAP_PROP_XI_APPLY_CMS" on a separate line.(õûøÎüÿÿÿÿ
+Wsquid:S1659m";Declare "CV_CAP_PROP_XI_IMAGE_IS_COLOR" on a separate line.(è÷ ©ÿÿÿÿÿ
+Vsquid:S1659n"?Declare "CV_CAP_PROP_XI_COLOR_FILTER_ARRAY" on a separate line.(­œ¶À
+Jsquid:S1659o"3Declare "CV_CAP_PROP_XI_GAMMAY" on a separate line.(‡¾È
+Osquid:S1659p"3Declare "CV_CAP_PROP_XI_GAMMAC" on a separate line.(úÀ¹ÿÿÿÿÿ
+Msquid:S1659q"6Declare "CV_CAP_PROP_XI_SHARPNESS" on a separate line.(ø¼ø“
+Psquid:S1659r"9Declare "CV_CAP_PROP_XI_CC_MATRIX_00" on a separate line.(¶ááŞ
+Psquid:S1659s"9Declare "CV_CAP_PROP_XI_CC_MATRIX_01" on a separate line.(êùø 
+Usquid:S1659t"9Declare "CV_CAP_PROP_XI_CC_MATRIX_02" on a separate line.(ûòë²üÿÿÿÿ
+Usquid:S1659u"9Declare "CV_CAP_PROP_XI_CC_MATRIX_03" on a separate line.(¶ıã®şÿÿÿÿ
+Usquid:S1659v"9Declare "CV_CAP_PROP_XI_CC_MATRIX_10" on a separate line.(ÈÂ¯Íúÿÿÿÿ
+Psquid:S1659w"9Declare "CV_CAP_PROP_XI_CC_MATRIX_11" on a separate line.(¶ˆû¨
+Usquid:S1659x"9Declare "CV_CAP_PROP_XI_CC_MATRIX_12" on a separate line.(œÚÚÎúÿÿÿÿ
+Psquid:S1659y"9Declare "CV_CAP_PROP_XI_CC_MATRIX_13" on a separate line.(áà‘Í
+Psquid:S1659z"9Declare "CV_CAP_PROP_XI_CC_MATRIX_20" on a separate line.(Êëäµ
+Psquid:S1659{"9Declare "CV_CAP_PROP_XI_CC_MATRIX_21" on a separate line.(ûú¤Ú
+Psquid:S1659|"9Declare "CV_CAP_PROP_XI_CC_MATRIX_22" on a separate line.(ÛÈ«Ó
+Usquid:S1659}"9Declare "CV_CAP_PROP_XI_CC_MATRIX_23" on a separate line.(½’â¤úÿÿÿÿ
+Psquid:S1659~"9Declare "CV_CAP_PROP_XI_CC_MATRIX_30" on a separate line.(ƒì“‚
+Usquid:S1659"9Declare "CV_CAP_PROP_XI_CC_MATRIX_31" on a separate line.(ÂŞœÿÿÿÿÿÿ
+Vsquid:S1659€"9Declare "CV_CAP_PROP_XI_CC_MATRIX_32" on a separate line.(ëÖĞşÿÿÿÿ
+Qsquid:S1659"9Declare "CV_CAP_PROP_XI_CC_MATRIX_33" on a separate line.(ÄéÀ«
+Vsquid:S1659‚">Declare "CV_CAP_PROP_XI_DEFAULT_CC_MATRIX" on a separate line.(°€ †
+Vsquid:S1659ƒ"9Declare "CV_CAP_PROP_XI_TRG_SELECTOR" on a separate line.(¬Êü¯ÿÿÿÿÿ
+_squid:S1659„"BDeclare "CV_CAP_PROP_XI_ACQ_FRAME_BURST_COUNT" on a separate line.(ğÌ—Ôùÿÿÿÿ
+Psquid:S1659…"8Declare "CV_CAP_PROP_XI_DEBOUNCE_EN" on a separate line.(Ú×–ş
+Psquid:S1659†"8Declare "CV_CAP_PROP_XI_DEBOUNCE_T0" on a separate line.(§úˆÔ
+Psquid:S1659‡"8Declare "CV_CAP_PROP_XI_DEBOUNCE_T1" on a separate line.(±€áÖ
+Qsquid:S1659ˆ"9Declare "CV_CAP_PROP_XI_DEBOUNCE_POL" on a separate line.(š§‚­
+Ssquid:S1659‰"6Declare "CV_CAP_PROP_XI_LENS_MODE" on a separate line.(Æ£†ôşÿÿÿÿ
+Xsquid:S1659Š"@Declare "CV_CAP_PROP_XI_LENS_APERTURE_VALUE" on a separate line.(¿¡“¾
+csquid:S1659‹"FDeclare "CV_CAP_PROP_XI_LENS_FOCUS_MOVEMENT_VALUE" on a separate line.(îß¹øÿÿÿÿ
+Tsquid:S1659Œ"<Declare "CV_CAP_PROP_XI_LENS_FOCUS_MOVE" on a separate line.(¥ÅÎ¬
+]squid:S1659"@Declare "CV_CAP_PROP_XI_LENS_FOCUS_DISTANCE" on a separate line.(éàÕşÿÿÿÿ
+Vsquid:S1659">Declare "CV_CAP_PROP_XI_LENS_FOCAL_LENGTH" on a separate line.(ıùš¡
+_squid:S1659"BDeclare "CV_CAP_PROP_XI_LENS_FEATURE_SELECTOR" on a separate line.(—¦Î¹úÿÿÿÿ
+Vsquid:S1659"9Declare "CV_CAP_PROP_XI_LENS_FEATURE" on a separate line.(Ğ†²…ûÿÿÿÿ
+Ysquid:S1659‘"<Declare "CV_CAP_PROP_XI_DEVICE_MODEL_ID" on a separate line.(ê„Ùøÿÿÿÿ
+Ssquid:S1659’"6Declare "CV_CAP_PROP_XI_DEVICE_SN" on a separate line.(·£¯Àúÿÿÿÿ
+bsquid:S1659“"JDeclare "CV_CAP_PROP_XI_IMAGE_DATA_FORMAT_RGB32_ALPHA" on a separate line.(ÂÿŒÀ
+Vsquid:S1659”"?Declare "CV_CAP_PROP_XI_IMAGE_PAYLOAD_SIZE" on a separate line.(ÓÓ¤
+
+`squid:S1659•"CDeclare "CV_CAP_PROP_XI_TRANSPORT_PIXEL_FORMAT" on a separate line.(°‚“­øÿÿÿÿ
+^squid:S1659–"ADeclare "CV_CAP_PROP_XI_SENSOR_CLOCK_FREQ_HZ" on a separate line.(ö¶†ùÿÿÿÿ
+asquid:S1659—"DDeclare "CV_CAP_PROP_XI_SENSOR_CLOCK_FREQ_INDEX" on a separate line.(µˆû£şÿÿÿÿ
+`squid:S1659˜"HDeclare "CV_CAP_PROP_XI_SENSOR_OUTPUT_CHANNEL_COUNT" on a separate line.(û¯¢Í
+Ssquid:S1659™"6Declare "CV_CAP_PROP_XI_FRAMERATE" on a separate line.(ûïÇÉşÿÿÿÿ
+Zsquid:S1659š"=Declare "CV_CAP_PROP_XI_COUNTER_SELECTOR" on a separate line.(õµêÚÿÿÿÿÿ
+Wsquid:S1659›":Declare "CV_CAP_PROP_XI_COUNTER_VALUE" on a separate line.(«ëæ¬øÿÿÿÿ
+Tsquid:S1659œ"<Declare "CV_CAP_PROP_XI_ACQ_TIMING_MODE" on a separate line.(®ï„¼
+]squid:S1659"@Declare "CV_CAP_PROP_XI_AVAILABLE_BANDWIDTH" on a separate line.( ¡Ìøÿÿÿÿ
+Rsquid:S1659":Declare "CV_CAP_PROP_XI_BUFFER_POLICY" on a separate line.(˜«ó
+Ksquid:S1659Ÿ"3Declare "CV_CAP_PROP_XI_LUT_EN" on a separate line.(¤×İ…
+Nsquid:S1659 "6Declare "CV_CAP_PROP_XI_LUT_INDEX" on a separate line.(¶éè¶
+Nsquid:S1659¡"6Declare "CV_CAP_PROP_XI_LUT_VALUE" on a separate line.(‹æûÛ
+Ssquid:S1659¢"6Declare "CV_CAP_PROP_XI_TRG_DELAY" on a separate line.(õï²»ùÿÿÿÿ
+Psquid:S1659£"8Declare "CV_CAP_PROP_XI_TS_RST_MODE" on a separate line.(ÊÒİù
+Qsquid:S1659¤":Declare "CV_CAP_PROP_XI_TS_RST_SOURCE" on a separate line.(×É—
+Tsquid:S1659¥"<Declare "CV_CAP_PROP_XI_IS_DEVICE_EXIST" on a separate line.(âìÃš
+Ysquid:S1659¦"<Declare "CV_CAP_PROP_XI_ACQ_BUFFER_SIZE" on a separate line.(–ú¬­üÿÿÿÿ
+^squid:S1659§"ADeclare "CV_CAP_PROP_XI_ACQ_BUFFER_SIZE_UNIT" on a separate line.(±Øğ…şÿÿÿÿ
+csquid:S1659¨"FDeclare "CV_CAP_PROP_XI_ACQ_TRANSPORT_BUFFER_SIZE" on a separate line.(á²×½ÿÿÿÿÿ
+\squid:S1659©"?Declare "CV_CAP_PROP_XI_BUFFERS_QUEUE_SIZE" on a separate line.(ıµ«¾úÿÿÿÿ
+`squid:S1659ª"HDeclare "CV_CAP_PROP_XI_ACQ_TRANSPORT_BUFFER_COMMIT" on a separate line.(ù’§ø
+Vsquid:S1659«"9Declare "CV_CAP_PROP_XI_RECENT_FRAME" on a separate line.(¤†ßÔùÿÿÿÿ
+Qsquid:S1659¬"9Declare "CV_CAP_PROP_XI_DEVICE_RESET" on a separate line.(ëÃ†
+Zsquid:S1659­"BDeclare "CV_CAP_PROP_XI_COLUMN_FPN_CORRECTION" on a separate line.(¨Œ©ã
+Usquid:S1659®"8Declare "CV_CAP_PROP_XI_SENSOR_MODE" on a separate line.(ñë…ùÿÿÿÿ
+Msquid:S1659¯"0Declare "CV_CAP_PROP_XI_HDR" on a separate line.(éØÿÿÿÿÿÿ
+]squid:S1659°"@Declare "CV_CAP_PROP_XI_HDR_KNEEPOINT_COUNT" on a separate line.(îÏ›±øÿÿÿÿ
+Jsquid:S1659±"3Declare "CV_CAP_PROP_XI_HDR_T1" on a separate line.(ıÌÒ=
+Psquid:S1659²"3Declare "CV_CAP_PROP_XI_HDR_T2" on a separate line.(ôëÎìùÿÿÿÿ
+Tsquid:S1659³"7Declare "CV_CAP_PROP_XI_KNEEPOINT1" on a separate line.(Ò¾‡–ıÿÿÿÿ
+Osquid:S1659´"7Declare "CV_CAP_PROP_XI_KNEEPOINT2" on a separate line.(Å‡‘å
+Usquid:S1659µ">Declare "CV_CAP_PROP_XI_IMAGE_BLACK_LEVEL" on a separate line.(†ñ„
+Psquid:S1659¶"8Declare "CV_CAP_PROP_XI_HW_REVISION" on a separate line.(¨Ï½
+Psquid:S1659·"8Declare "CV_CAP_PROP_XI_DEBUG_LEVEL" on a separate line.(é—›â
+dsquid:S1659¸"GDeclare "CV_CAP_PROP_XI_AUTO_BANDWIDTH_CALCULATION" on a separate line.(·àøÿÿÿÿ
+Wsquid:S1659¹":Declare "CV_CAP_PROP_XI_FREE_FFS_SIZE" on a separate line.(ÏÆ¦¹ùÿÿÿÿ
+Wsquid:S1659º":Declare "CV_CAP_PROP_XI_USED_FFS_SIZE" on a separate line.(ø’şåøÿÿÿÿ
+Xsquid:S1659»";Declare "CV_CAP_PROP_XI_FFS_ACCESS_KEY" on a separate line.(É«ìôÿÿÿÿÿ
+\squid:S1659¼"DDeclare "CV_CAP_PROP_XI_SENSOR_FEATURE_SELECTOR" on a separate line.(ÌÖŸ®
+Ysquid:S1659½"ADeclare "CV_CAP_PROP_XI_SENSOR_FEATURE_VALUE" on a separate line.(ßğë§
+Ysquid:S1659¾"<Declare "CV_CAP_PROP_ANDROID_FLASH_MODE" on a separate line.(ßÿüşÿÿÿÿ
+Tsquid:S1659¿"<Declare "CV_CAP_PROP_ANDROID_FOCUS_MODE" on a separate line.(ºìû
+\squid:S1659À"?Declare "CV_CAP_PROP_ANDROID_WHITE_BALANCE" on a separate line.(ÓÇó¤üÿÿÿÿ
+Zsquid:S1659Á"=Declare "CV_CAP_PROP_ANDROID_ANTIBANDING" on a separate line.(êÓÓ¸øÿÿÿÿ
+[squid:S1659Â">Declare "CV_CAP_PROP_ANDROID_FOCAL_LENGTH" on a separate line.(˜Ó¹ûÿÿÿÿ
+bsquid:S1659Ã"EDeclare "CV_CAP_PROP_ANDROID_FOCUS_DISTANCE_NEAR" on a separate line.(êİğûÿÿÿÿ
+`squid:S1659Ä"HDeclare "CV_CAP_PROP_ANDROID_FOCUS_DISTANCE_OPTIMAL" on a separate line.(„öªÔ
+asquid:S1659Å"DDeclare "CV_CAP_PROP_ANDROID_FOCUS_DISTANCE_FAR" on a separate line.(Ä…ûÿÿÿÿÿ
+Usquid:S1659Æ"=Declare "CV_CAP_PROP_ANDROID_EXPOSE_LOCK" on a separate line.(¯¶â™
+`squid:S1659Ç"CDeclare "CV_CAP_PROP_ANDROID_WHITEBALANCE_LOCK" on a separate line.(ç§êåúÿÿÿÿ
+Wsquid:S1659È":Declare "CV_CAP_PROP_IOS_DEVICE_FOCUS" on a separate line.(øşÉïıÿÿÿÿ
+Usquid:S1659É"=Declare "CV_CAP_PROP_IOS_DEVICE_EXPOSURE" on a separate line.(‰ÊÅ
+Wsquid:S1659Ê":Declare "CV_CAP_PROP_IOS_DEVICE_FLASH" on a separate line.(‰Ó¾Øüÿÿÿÿ
+Ysquid:S1659Ë"ADeclare "CV_CAP_PROP_IOS_DEVICE_WHITEBALANCE" on a separate line.(ûÊš
+Rsquid:S1659Ì":Declare "CV_CAP_PROP_IOS_DEVICE_TORCH" on a separate line.(ˆÖûš
+Zsquid:S1659Í"=Declare "CV_CAP_PROP_GIGA_FRAME_OFFSET_X" on a separate line.(¦ëÁøÿÿÿÿ
+Zsquid:S1659Î"=Declare "CV_CAP_PROP_GIGA_FRAME_OFFSET_Y" on a separate line.(ö…ğÒÿÿÿÿÿ
+Vsquid:S1659Ï">Declare "CV_CAP_PROP_GIGA_FRAME_WIDTH_MAX" on a separate line.(´™Ğ´
+[squid:S1659Ğ">Declare "CV_CAP_PROP_GIGA_FRAME_HEIGH_MAX" on a separate line.(µ¨­‡üÿÿÿÿ
+\squid:S1659Ñ"?Declare "CV_CAP_PROP_GIGA_FRAME_SENS_WIDTH" on a separate line.(Ö–¦Úşÿÿÿÿ
+Wsquid:S1659Ò"?Declare "CV_CAP_PROP_GIGA_FRAME_SENS_HEIGH" on a separate line.(ĞÌçƒ
+^squid:S1659Ó"ADeclare "CV_CAP_PROP_INTELPERC_PROFILE_COUNT" on a separate line.(Ú³Å‚úÿÿÿÿ
+Wsquid:S1659Ô"?Declare "CV_CAP_PROP_INTELPERC_PROFILE_IDX" on a separate line.(½İƒ€
+ksquid:S1659Õ"NDeclare "CV_CAP_PROP_INTELPERC_DEPTH_LOW_CONFIDENCE_VALUE" on a separate line.(´„õôÿÿÿÿÿ
+bsquid:S1659Ö"JDeclare "CV_CAP_PROP_INTELPERC_DEPTH_SATURATION_VALUE" on a separate line.(„¼³í
+ksquid:S1659×"NDeclare "CV_CAP_PROP_INTELPERC_DEPTH_CONFIDENCE_THRESHOLD" on a separate line.(îÅÃÈıÿÿÿÿ
+hsquid:S1659Ø"KDeclare "CV_CAP_PROP_INTELPERC_DEPTH_FOCAL_LENGTH_HORZ" on a separate line.(Œûèûÿÿÿÿ
+hsquid:S1659Ù"KDeclare "CV_CAP_PROP_INTELPERC_DEPTH_FOCAL_LENGTH_VERT" on a separate line.(òÓÏˆøÿÿÿÿ
+Esquid:S1659Ú"-Declare "CV_CAP_MODE_BGR" on a separate line.(¦ğŸ
+Jsquid:S1659Û"-Declare "CV_CAP_MODE_RGB" on a separate line.(µß› úÿÿÿÿ
+Ksquid:S1659Ü".Declare "CV_CAP_MODE_GRAY" on a separate line.(õóàƒùÿÿÿÿ
+Ksquid:S1659İ".Declare "CV_CAP_MODE_YUYV" on a separate line.(×•»üúÿÿÿÿ
+Vsquid:S1659Ş"9Declare "CV_CAP_PROP_GPHOTO2_PREVIEW" on a separate line.(—Ä½üÿÿÿÿ
+Zsquid:S1659ß"BDeclare "CV_CAP_PROP_GPHOTO2_WIDGET_ENUMERATE" on a separate line.(‡à×ì
+\squid:S1659à"?Declare "CV_CAP_PROP_GPHOTO2_RELOAD_CONFIG" on a separate line.(»Ã›Úıÿÿÿÿ
+Ysquid:S1659á"BDeclare "CV_CAP_PROP_GPHOTO2_RELOAD_ON_CHANGE" on a separate line.(İºÊ
+Vsquid:S1659â">Declare "CV_CAP_PROP_GPHOTO2_COLLECT_MSGS" on a separate line.(ÆÛƒÄ
+Ysquid:S1659ã"<Declare "CV_CAP_PROP_GPHOTO2_FLUSH_MSGS" on a separate line.(—£ùÒıÿÿÿÿ
+Lsquid:S1659ä"/Declare "CV_CAP_PROP_SPEED" on a separate line.(¦úÒÚúÿÿÿÿ
+Osquid:S1659å"2Declare "CV_CAP_PROP_APERTURE" on a separate line.(‘—Ú•úÿÿÿÿ
+Lsquid:S1659æ"4Declare "CV_CAP_PROP_VIEWFINDER" on a separate line.(‡î¼ä
+Bsquid:S1659ç"%Declare "CAP_ANY" on a separate line.(ü»Ò¶ùÿÿÿÿ
+<squid:S1659è"%Declare "CAP_VFW" on a separate line.(„™Ö 
+Bsquid:S1659é"%Declare "CAP_V4L" on a separate line.(É±¥Ğúÿÿÿÿ
+Csquid:S1659ê"&Declare "CAP_V4L2" on a separate line.(©¡®ñúÿÿÿÿ
+Bsquid:S1659ë"*Declare "CAP_FIREWARE" on a separate line.(æ«­Ú
+Bsquid:S1659ì"*Declare "CAP_FIREWIRE" on a separate line.(µß¹µ
+Bsquid:S1659í"*Declare "CAP_IEEE1394" on a separate line.(‚ö¹ı
+Esquid:S1659î"(Declare "CAP_DC1394" on a separate line.(øÒ®Îÿÿÿÿÿ
+Fsquid:S1659ï")Declare "CAP_CMU1394" on a separate line.(§‚´«ÿÿÿÿÿ
+<squid:S1659ğ"$Declare "CAP_QT" on a separate line.(îÛŸà
+Esquid:S1659ñ"(Declare "CAP_UNICAP" on a separate line.(¯¢Âùÿÿÿÿ
+Dsquid:S1659ò"'Declare "CAP_DSHOW" on a separate line.(ô¦¸ïüÿÿÿÿ
+?squid:S1659ó"'Declare "CAP_PVAPI" on a separate line.(¦°±€
+Esquid:S1659ô"(Declare "CAP_OPENNI" on a separate line.(Õ´¹ùÿÿÿÿ
+Esquid:S1659õ"-Declare "CAP_OPENNI_ASUS" on a separate line.(ÒïÚÃ
+Asquid:S1659ö")Declare "CAP_ANDROID" on a separate line.(üÉ§â
+Dsquid:S1659÷"'Declare "CAP_XIAPI" on a separate line.(„ƒé„øÿÿÿÿ
+Fsquid:S1659ø".Declare "CAP_AVFOUNDATION" on a separate line.(Ç¦¤”
+Hsquid:S1659ù"+Declare "CAP_GIGANETIX" on a separate line.(ª¬œÛùÿÿÿÿ
+Csquid:S1659ú"&Declare "CAP_MSMF" on a separate line.(»…øÜÿÿÿÿÿ
+Dsquid:S1659û"'Declare "CAP_WINRT" on a separate line.(ªñƒúÿÿÿÿ
+Hsquid:S1659ü"+Declare "CAP_INTELPERC" on a separate line.(Ûó×şıÿÿÿÿ
+Fsquid:S1659ı")Declare "CAP_OPENNI2" on a separate line.(—é¿•ÿÿÿÿÿ
+Fsquid:S1659ş".Declare "CAP_OPENNI2_ASUS" on a separate line.(Ø‹ÉÛ
+Fsquid:S1659ÿ")Declare "CAP_GPHOTO2" on a separate line.(ÀÁôúşÿÿÿÿ
+Csquid:S1659€"+Declare "CAP_GSTREAMER" on a separate line.(äıÊÔ
+Esquid:S1659"(Declare "CAP_FFMPEG" on a separate line.(‰ƒÇÈşÿÿÿÿ
+Esquid:S1659‚"(Declare "CAP_IMAGES" on a separate line.(àˆüÆüÿÿÿÿ
+Gsquid:S1659ƒ"/Declare "CAP_PROP_POS_MSEC" on a separate line.(ƒø…¯
+Nsquid:S1659„"1Declare "CAP_PROP_POS_FRAMES" on a separate line.(ƒ¦«şÿÿÿÿ
+Lsquid:S1659…"4Declare "CAP_PROP_POS_AVI_RATIO" on a separate line.(‹¾ÄÂ
+Osquid:S1659†"2Declare "CAP_PROP_FRAME_WIDTH" on a separate line.(›ì²¥şÿÿÿÿ
+Ksquid:S1659‡"3Declare "CAP_PROP_FRAME_HEIGHT" on a separate line.(‰İâš
+Bsquid:S1659ˆ"*Declare "CAP_PROP_FPS" on a separate line.(Ì€¦Ê
+Jsquid:S1659‰"-Declare "CAP_PROP_FOURCC" on a separate line.(‚ñé‚ÿÿÿÿÿ
+Jsquid:S1659Š"2Declare "CAP_PROP_FRAME_COUNT" on a separate line.(·Èßí
+Jsquid:S1659‹"-Declare "CAP_PROP_FORMAT" on a separate line.( †°ÿÿÿÿÿ
+Csquid:S1659Œ"+Declare "CAP_PROP_MODE" on a separate line.(ÙŞÁ¬
+Isquid:S1659"1Declare "CAP_PROP_BRIGHTNESS" on a separate line.(Ã»«ÿ
+Gsquid:S1659"/Declare "CAP_PROP_CONTRAST" on a separate line.(Ó‡¢
+Isquid:S1659"1Declare "CAP_PROP_SATURATION" on a separate line.( ¢â
+Bsquid:S1659"*Declare "CAP_PROP_HUE" on a separate line.(œÃßÿ
+Csquid:S1659‘"+Declare "CAP_PROP_GAIN" on a separate line.(ï¸Œç
+Lsquid:S1659’"/Declare "CAP_PROP_EXPOSURE" on a separate line.( °Ôúÿÿÿÿ
+Osquid:S1659“"2Declare "CAP_PROP_CONVERT_RGB" on a separate line.(ş×ÛØùÿÿÿÿ
+Xsquid:S1659”";Declare "CAP_PROP_WHITE_BALANCE_BLUE_U" on a separate line.(¨ãäıÿÿÿÿ
+Lsquid:S1659•"4Declare "CAP_PROP_RECTIFICATION" on a separate line.(ÓÕˆ™
+Nsquid:S1659–"1Declare "CAP_PROP_MONOCHROME" on a separate line.(«óÿÿÿÿÿ
+Msquid:S1659—"0Declare "CAP_PROP_SHARPNESS" on a separate line.(¦Ï’ùÿÿÿÿ
+Lsquid:S1659˜"4Declare "CAP_PROP_AUTO_EXPOSURE" on a separate line.(³’íŞ
+Dsquid:S1659™",Declare "CAP_PROP_GAMMA" on a separate line.(ªŸÒ„
+Jsquid:S1659š"2Declare "CAP_PROP_TEMPERATURE" on a separate line.(´’Ø
+Fsquid:S1659›".Declare "CAP_PROP_TRIGGER" on a separate line.(ªÑ‚
+Qsquid:S1659œ"4Declare "CAP_PROP_TRIGGER_DELAY" on a separate line.(±³²éıÿÿÿÿ
+Wsquid:S1659":Declare "CAP_PROP_WHITE_BALANCE_RED_V" on a separate line.(í±¼àûÿÿÿÿ
+Csquid:S1659"+Declare "CAP_PROP_ZOOM" on a separate line.(òÚ¼š
+Isquid:S1659Ÿ",Declare "CAP_PROP_FOCUS" on a separate line.(Ç µÊıÿÿÿÿ
+Hsquid:S1659 "+Declare "CAP_PROP_GUID" on a separate line.(¤õÚßıÿÿÿÿ
+Hsquid:S1659¡"0Declare "CAP_PROP_ISO_SPEED" on a separate line.(áõšö
+Msquid:S1659¢"0Declare "CAP_PROP_BACKLIGHT" on a separate line.(ëûÜğúÿÿÿÿ
+Gsquid:S1659£"*Declare "CAP_PROP_PAN" on a separate line.(š¥í¾øÿÿÿÿ
+Hsquid:S1659¤"+Declare "CAP_PROP_TILT" on a separate line.(ì ™Ğúÿÿÿÿ
+Csquid:S1659¥"+Declare "CAP_PROP_ROLL" on a separate line.(ê²¾ö
+Hsquid:S1659¦"+Declare "CAP_PROP_IRIS" on a separate line.(ìğ×ùÿÿÿÿ
+Gsquid:S1659§"/Declare "CAP_PROP_SETTINGS" on a separate line.(„ĞªÈ
+Nsquid:S1659¨"1Declare "CAP_PROP_BUFFERSIZE" on a separate line.(ÉºØıÿÿÿÿ
+Hsquid:S1659©"0Declare "CAP_PROP_AUTOFOCUS" on a separate line.(±†—
+Gsquid:S1659ª"*Declare "CAP_MODE_BGR" on a separate line.(·Áó×üÿÿÿÿ
+Gsquid:S1659«"*Declare "CAP_MODE_RGB" on a separate line.(ª†È¨ûÿÿÿÿ
+Csquid:S1659¬"+Declare "CAP_MODE_GRAY" on a separate line.(ÉÃ‘µ
+Csquid:S1659­"+Declare "CAP_MODE_YUYV" on a separate line.(Ù‘Ãİ
+Isquid:S1659®"1Declare "CAP_PROP_DC1394_OFF" on a separate line.(¾“
+Qsquid:S1659¯"9Declare "CAP_PROP_DC1394_MODE_MANUAL" on a separate line.(°ûæë
+Osquid:S1659°"7Declare "CAP_PROP_DC1394_MODE_AUTO" on a separate line.(ÔÚıÊ
+Xsquid:S1659±"@Declare "CAP_PROP_DC1394_MODE_ONE_PUSH_AUTO" on a separate line.(î›ü
+Nsquid:S1659²"1Declare "CAP_PROP_DC1394_MAX" on a separate line.(È¿¨³øÿÿÿÿ
+Usquid:S1659³"8Declare "CAP_OPENNI_DEPTH_GENERATOR" on a separate line.(Å„ñªüÿÿÿÿ
+Psquid:S1659´"8Declare "CAP_OPENNI_IMAGE_GENERATOR" on a separate line.(İ—ÑÓ
+Psquid:S1659µ"8Declare "CAP_OPENNI_GENERATORS_MASK" on a separate line.(ÿ›
+Qsquid:S1659¶"9Declare "CAP_PROP_OPENNI_OUTPUT_MODE" on a separate line.(”Ôù
+Zsquid:S1659·"=Declare "CAP_PROP_OPENNI_FRAME_MAX_DEPTH" on a separate line.(ó€æ™ùÿÿÿÿ
+Msquid:S1659¸"6Declare "CAP_PROP_OPENNI_BASELINE" on a separate line.(Ã¦B
+Rsquid:S1659¹":Declare "CAP_PROP_OPENNI_FOCAL_LENGTH" on a separate line.(•¨—Á
+Wsquid:S1659º":Declare "CAP_PROP_OPENNI_REGISTRATION" on a separate line.(Ûö¼µıÿÿÿÿ
+Usquid:S1659»"=Declare "CAP_PROP_OPENNI_REGISTRATION_ON" on a separate line.(›¤«™
+Wsquid:S1659¼"?Declare "CAP_PROP_OPENNI_APPROX_FRAME_SYNC" on a separate line.(“ã¶
+Zsquid:S1659½"=Declare "CAP_PROP_OPENNI_MAX_BUFFER_SIZE" on a separate line.(‰Œñ¾ûÿÿÿÿ
+Xsquid:S1659¾";Declare "CAP_PROP_OPENNI_CIRCLE_BUFFER" on a separate line.(ıÛ‚¤ıÿÿÿÿ
+\squid:S1659¿"?Declare "CAP_PROP_OPENNI_MAX_TIME_DURATION" on a separate line.(‚Ï™¹øÿÿÿÿ
+\squid:S1659À"?Declare "CAP_PROP_OPENNI_GENERATOR_PRESENT" on a separate line.(™Œíùÿÿÿÿ
+Psquid:S1659Á"3Declare "CAP_PROP_OPENNI2_SYNC" on a separate line.(öúºØıÿÿÿÿ
+Rsquid:S1659Â"5Declare "CAP_PROP_OPENNI2_MIRROR" on a separate line.(¶ıà¼øÿÿÿÿ
+Xsquid:S1659Ã"@Declare "CAP_OPENNI_IMAGE_GENERATOR_PRESENT" on a separate line.(¯«ÿ
+asquid:S1659Ä"DDeclare "CAP_OPENNI_IMAGE_GENERATOR_OUTPUT_MODE" on a separate line.(§œãüÿÿÿÿ
+^squid:S1659Å"ADeclare "CAP_OPENNI_DEPTH_GENERATOR_BASELINE" on a separate line.(ü¶‚­şÿÿÿÿ
+]squid:S1659Æ"EDeclare "CAP_OPENNI_DEPTH_GENERATOR_FOCAL_LENGTH" on a separate line.(õµ™ñ
+bsquid:S1659Ç"EDeclare "CAP_OPENNI_DEPTH_GENERATOR_REGISTRATION" on a separate line.(å˜Áˆÿÿÿÿÿ
+`squid:S1659È"HDeclare "CAP_OPENNI_DEPTH_GENERATOR_REGISTRATION_ON" on a separate line.(ŞÛÒº
+Jsquid:S1659É"2Declare "CAP_OPENNI_DEPTH_MAP" on a separate line.(»Ú“Ó
+Usquid:S1659Ê"8Declare "CAP_OPENNI_POINT_CLOUD_MAP" on a separate line.(Úüñıûÿÿÿÿ
+Ssquid:S1659Ë"6Declare "CAP_OPENNI_DISPARITY_MAP" on a separate line.(¡ùğæÿÿÿÿÿ
+Wsquid:S1659Ì":Declare "CAP_OPENNI_DISPARITY_MAP_32F" on a separate line.(ÑÊñıÿÿÿÿ
+Qsquid:S1659Í"9Declare "CAP_OPENNI_VALID_DEPTH_MASK" on a separate line.(ğˆ¾ë
+Osquid:S1659Î"2Declare "CAP_OPENNI_BGR_IMAGE" on a separate line.(ëò«ªıÿÿÿÿ
+Psquid:S1659Ï"3Declare "CAP_OPENNI_GRAY_IMAGE" on a separate line.(Ôûº¦şÿÿÿÿ
+Isquid:S1659Ğ"1Declare "CAP_OPENNI_VGA_30HZ" on a separate line.(¨ö¯
+Osquid:S1659Ñ"2Declare "CAP_OPENNI_SXGA_15HZ" on a separate line.(—â’ºøÿÿÿÿ
+Jsquid:S1659Ò"2Declare "CAP_OPENNI_SXGA_30HZ" on a separate line.(ÿŠ×È
+Osquid:S1659Ó"2Declare "CAP_OPENNI_QVGA_30HZ" on a separate line.(‘‡‘øÿÿÿÿ
+Jsquid:S1659Ô"2Declare "CAP_OPENNI_QVGA_60HZ" on a separate line.(æ‘”¤
+Zsquid:S1659Õ"=Declare "CAP_PROP_GSTREAMER_QUEUE_LENGTH" on a separate line.(ãòúÿÿÿÿ
+Usquid:S1659Ö"8Declare "CAP_PROP_PVAPI_MULTICASTIP" on a separate line.(İı™Íøÿÿÿÿ
+Zsquid:S1659×"BDeclare "CAP_PROP_PVAPI_FRAMESTARTTRIGGERMODE" on a separate line.(Òó§
+^squid:S1659Ø"ADeclare "CAP_PROP_PVAPI_DECIMATIONHORIZONTAL" on a separate line.(¾¾±¡üÿÿÿÿ
+\squid:S1659Ù"?Declare "CAP_PROP_PVAPI_DECIMATIONVERTICAL" on a separate line.(©Òˆ»üÿÿÿÿ
+Rsquid:S1659Ú"5Declare "CAP_PROP_PVAPI_BINNINGX" on a separate line.(ŸØìËşÿÿÿÿ
+Msquid:S1659Û"5Declare "CAP_PROP_PVAPI_BINNINGY" on a separate line.(ËÁ£¡
+Psquid:S1659Ü"8Declare "CAP_PROP_PVAPI_PIXELFORMAT" on a separate line.(Š«Üı
+Qsquid:S1659İ":Declare "CAP_PVAPI_FSTRIGMODE_FREERUN" on a separate line.(ÇÔ›j
+Rsquid:S1659Ş":Declare "CAP_PVAPI_FSTRIGMODE_SYNCIN1" on a separate line.(­øÍ™
+Wsquid:S1659ß":Declare "CAP_PVAPI_FSTRIGMODE_SYNCIN2" on a separate line.(À×ù•ûÿÿÿÿ
+Tsquid:S1659à"<Declare "CAP_PVAPI_FSTRIGMODE_FIXEDRATE" on a separate line.(Û¢È
+Xsquid:S1659á";Declare "CAP_PVAPI_FSTRIGMODE_SOFTWARE" on a separate line.(±µ‹şúÿÿÿÿ
+Nsquid:S1659â"6Declare "CAP_PVAPI_DECIMATION_OFF" on a separate line.(¥âŞÁ
+Wsquid:S1659ã":Declare "CAP_PVAPI_DECIMATION_2OUTOF4" on a separate line.(µİâÿÿÿÿÿ
+Qsquid:S1659ä":Declare "CAP_PVAPI_DECIMATION_2OUTOF8" on a separate line.(ºî•'
+Ssquid:S1659å";Declare "CAP_PVAPI_DECIMATION_2OUTOF16" on a separate line.(Êğ´í
+Qsquid:S1659æ"9Declare "CAP_PVAPI_PIXELFORMAT_MONO8" on a separate line.(Áé¹
+Rsquid:S1659ç":Declare "CAP_PVAPI_PIXELFORMAT_MONO16" on a separate line.(Ÿùäü
+Wsquid:S1659è":Declare "CAP_PVAPI_PIXELFORMAT_BAYER8" on a separate line.(ßª¢‚üÿÿÿÿ
+Xsquid:S1659é";Declare "CAP_PVAPI_PIXELFORMAT_BAYER16" on a separate line.(À¤Æåşÿÿÿÿ
+Vsquid:S1659ê"9Declare "CAP_PVAPI_PIXELFORMAT_RGB24" on a separate line.(÷íøÿÿÿÿ
+Vsquid:S1659ë"9Declare "CAP_PVAPI_PIXELFORMAT_BGR24" on a separate line.(è£úÊøÿÿÿÿ
+Rsquid:S1659ì":Declare "CAP_PVAPI_PIXELFORMAT_RGBA32" on a separate line.(Á­êç
+Wsquid:S1659í":Declare "CAP_PVAPI_PIXELFORMAT_BGRA32" on a separate line.(–õÔÿÿÿÿÿ
+Ssquid:S1659î"6Declare "CAP_PROP_XI_DOWNSAMPLING" on a separate line.(òƒ°Œşÿÿÿÿ
+Rsquid:S1659ï"5Declare "CAP_PROP_XI_DATA_FORMAT" on a separate line.(¶ğåÀøÿÿÿÿ
+Jsquid:S1659ğ"2Declare "CAP_PROP_XI_OFFSET_X" on a separate line.(º¼”ò
+Jsquid:S1659ñ"2Declare "CAP_PROP_XI_OFFSET_Y" on a separate line.(ğš
+Lsquid:S1659ò"4Declare "CAP_PROP_XI_TRG_SOURCE" on a separate line.(×íĞ±
+Ssquid:S1659ó"6Declare "CAP_PROP_XI_TRG_SOFTWARE" on a separate line.(€åãùÿÿÿÿ
+Msquid:S1659ô"6Declare "CAP_PROP_XI_GPI_SELECTOR" on a separate line.(²Ãõ
+Jsquid:S1659õ"2Declare "CAP_PROP_XI_GPI_MODE" on a separate line.(á¾¥°
+Ksquid:S1659ö"3Declare "CAP_PROP_XI_GPI_LEVEL" on a separate line.(î›–
+Ssquid:S1659÷"6Declare "CAP_PROP_XI_GPO_SELECTOR" on a separate line.(©ğ™Ùùÿÿÿÿ
+Jsquid:S1659ø"2Declare "CAP_PROP_XI_GPO_MODE" on a separate line.(—é±Á
+Nsquid:S1659ù"6Declare "CAP_PROP_XI_LED_SELECTOR" on a separate line.(ÆïÖ
+Osquid:S1659ú"2Declare "CAP_PROP_XI_LED_MODE" on a separate line.(ûÅ¥€şÿÿÿÿ
+Psquid:S1659û"3Declare "CAP_PROP_XI_MANUAL_WB" on a separate line.(×ÜÙ¥ıÿÿÿÿ
+Nsquid:S1659ü"1Declare "CAP_PROP_XI_AUTO_WB" on a separate line.(‘‘îıÿÿÿÿ
+Ksquid:S1659ı".Declare "CAP_PROP_XI_AEAG" on a separate line.(¶÷ª¾ıÿÿÿÿ
+Ssquid:S1659ş"6Declare "CAP_PROP_XI_EXP_PRIORITY" on a separate line.(’é£Ìúÿÿÿÿ
+Ssquid:S1659ÿ"6Declare "CAP_PROP_XI_AE_MAX_LIMIT" on a separate line.(Å—«•ûÿÿÿÿ
+Nsquid:S1659€"6Declare "CAP_PROP_XI_AG_MAX_LIMIT" on a separate line.(ıÅĞœ
+Lsquid:S1659"4Declare "CAP_PROP_XI_AEAG_LEVEL" on a separate line.(µ’´º
+Isquid:S1659‚"1Declare "CAP_PROP_XI_TIMEOUT" on a separate line.(§úêÿ
+Osquid:S1659ƒ"7Declare "CAP_PROP_IOS_DEVICE_FOCUS" on a separate line.(øœŠÑ
+Wsquid:S1659„":Declare "CAP_PROP_IOS_DEVICE_EXPOSURE" on a separate line.(¬ôá€ûÿÿÿÿ
+Tsquid:S1659…"7Declare "CAP_PROP_IOS_DEVICE_FLASH" on a separate line.(†³±øÿÿÿÿ
+[squid:S1659†">Declare "CAP_PROP_IOS_DEVICE_WHITEBALANCE" on a separate line.(öÂõßüÿÿÿÿ
+Osquid:S1659‡"7Declare "CAP_PROP_IOS_DEVICE_TORCH" on a separate line.(Óê
+Wsquid:S1659ˆ":Declare "CAP_PROP_GIGA_FRAME_OFFSET_X" on a separate line.(¬ä«âùÿÿÿÿ
+Wsquid:S1659‰":Declare "CAP_PROP_GIGA_FRAME_OFFSET_Y" on a separate line.(€»îÉûÿÿÿÿ
+Rsquid:S1659Š";Declare "CAP_PROP_GIGA_FRAME_WIDTH_MAX" on a separate line.(­¼2
+Xsquid:S1659‹";Declare "CAP_PROP_GIGA_FRAME_HEIGH_MAX" on a separate line.(˜ôÃ¶úÿÿÿÿ
+Tsquid:S1659Œ"<Declare "CAP_PROP_GIGA_FRAME_SENS_WIDTH" on a separate line.(‡‹†
+Tsquid:S1659"<Declare "CAP_PROP_GIGA_FRAME_SENS_HEIGH" on a separate line.(ü¼¡
+Vsquid:S1659">Declare "CAP_PROP_INTELPERC_PROFILE_COUNT" on a separate line.(†ë¬¸
+Ysquid:S1659"<Declare "CAP_PROP_INTELPERC_PROFILE_IDX" on a separate line.(êµœËşÿÿÿÿ
+csquid:S1659"KDeclare "CAP_PROP_INTELPERC_DEPTH_LOW_CONFIDENCE_VALUE" on a separate line.(ü–Ñ«
+_squid:S1659‘"GDeclare "CAP_PROP_INTELPERC_DEPTH_SATURATION_VALUE" on a separate line.(ªËÑ
+hsquid:S1659’"KDeclare "CAP_PROP_INTELPERC_DEPTH_CONFIDENCE_THRESHOLD" on a separate line.(‘Ó‹Õüÿÿÿÿ
+`squid:S1659“"HDeclare "CAP_PROP_INTELPERC_DEPTH_FOCAL_LENGTH_HORZ" on a separate line.(äúÆš
+`squid:S1659”"HDeclare "CAP_PROP_INTELPERC_DEPTH_FOCAL_LENGTH_VERT" on a separate line.(†üÒş
+Xsquid:S1659•";Declare "CAP_INTELPERC_DEPTH_GENERATOR" on a separate line.(º¶¨¦ÿÿÿÿÿ
+Rsquid:S1659–";Declare "CAP_INTELPERC_IMAGE_GENERATOR" on a separate line.(³œ™F
+Ssquid:S1659—";Declare "CAP_INTELPERC_GENERATORS_MASK" on a separate line.(‰é¹Ñ
+Rsquid:S1659˜"5Declare "CAP_INTELPERC_DEPTH_MAP" on a separate line.(–ší¸úÿÿÿÿ
+Osquid:S1659™"7Declare "CAP_INTELPERC_UVDEPTH_MAP" on a separate line.(àé¬Ó
+Jsquid:S1659š"2Declare "CAP_INTELPERC_IR_MAP" on a separate line.(Õú
+Isquid:S1659›"1Declare "CAP_INTELPERC_IMAGE" on a separate line.(áª‚˜
+Ssquid:S1659œ"6Declare "VIDEOWRITER_PROP_QUALITY" on a separate line.(ÆÄü©ûÿÿÿÿ
+Qsquid:S1659"9Declare "VIDEOWRITER_PROP_FRAMEBYTES" on a separate line.(—…ë™
+Osquid:S1659"7Declare "VIDEOWRITER_PROP_NSTRIPES" on a separate line.(µ“ä¯
+Nsquid:S1659Ÿ"6Declare "CAP_PROP_GPHOTO2_PREVIEW" on a separate line.(ÆäşÍ
+Wsquid:S1659 "?Declare "CAP_PROP_GPHOTO2_WIDGET_ENUMERATE" on a separate line.(‡éô‚
+Ysquid:S1659¡"<Declare "CAP_PROP_GPHOTO2_RELOAD_CONFIG" on a separate line.(æ¨¾øşÿÿÿÿ
+Wsquid:S1659¢"?Declare "CAP_PROP_GPHOTO2_RELOAD_ON_CHANGE" on a separate line.(ğÄéÑ
+Ssquid:S1659£";Declare "CAP_PROP_GPHOTO2_COLLECT_MSGS" on a separate line.(şÁü
+Qsquid:S1659¤"9Declare "CAP_PROP_GPHOTO2_FLUSH_MSGS" on a separate line.(€½­´
+Isquid:S1659¥",Declare "CAP_PROP_SPEED" on a separate line.(•ïŠıÿÿÿÿ
+Gsquid:S1659¦"/Declare "CAP_PROP_APERTURE" on a separate line.(ãñ×ó
+Ssquid:S1659§"6Declare "CAP_PROP_EXPOSUREPROGRAM" on a separate line.(àÁ¨³şÿÿÿÿ
+Isquid:S1659¨"1Declare "CAP_PROP_VIEWFINDER" on a separate line.(×±şı
+Vsquid:S1118	":Add a private constructor to hide the implicit public one.(ØËúŒûÿÿÿÿ

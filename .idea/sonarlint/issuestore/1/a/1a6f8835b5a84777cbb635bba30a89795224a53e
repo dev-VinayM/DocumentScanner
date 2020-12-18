@@ -1,0 +1,12 @@
+
+}squid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(ï…‘øÿÿÿÿ
+wsquid:S00115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(½¯Ğšøÿÿÿÿ
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¾«ï—
+`squid:S1134"DTake the required action to fix the issue indicated by this comment.(’° èøÿÿÿÿ
+`squid:S1134 "DTake the required action to fix the issue indicated by this comment.(’° èøÿÿÿÿ
+Osquid:S11972"8Move the array designator from the variable to the type.(¡ò¢…
+Nsquid:S1135="2Complete the task associated to this TODO comment.(¼”Ÿúüÿÿÿÿ
+Osquid:S1197E"8Move the array designator from the variable to the type.(¡ò¢…
+Isquid:S1135F"2Complete the task associated to this TODO comment.(îõƒ¯
+Tsquid:S1197N"8Move the array designator from the variable to the type.(ŒÚóøÿÿÿÿÿ

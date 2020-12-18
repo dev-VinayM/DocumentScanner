@@ -1,0 +1,16 @@
+
+hsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ÃºP
+hsquid:S00117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ÃºP
+isquid:S001177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ûáı
+isquid:S001177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ûáı
+isquid:S001177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ûáı
+isquid:S001177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ûáı
+isquid:S00117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ëÖ
+isquid:S00117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ëÖ
+isquid:S00117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ëÖ
+Tsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+2squid:S3626"Remove this redundant jump.(ûÁİ…
+2squid:S3626+"Remove this redundant jump.(ûÁİ…
+`"squid:ObjectFinalizeOverridenCheck0"-Do not override the Object.finalize() method.(ÖÒ˜Ùùÿÿÿÿ
+fsquid:S001007"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ûáı
+fsquid:S00100:"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ëÖ

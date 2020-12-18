@@ -1,0 +1,18 @@
+
+Lsquid:S1066ä"/Merge this if statement with the enclosing one.(¥æ§Ÿüÿÿÿÿ
+csquid:S1301¾"KReplace this "switch" statement by "if" statements to increase readability.(þ™ÅÞ
+csquid:S1301Ð"KReplace this "switch" statement by "if" statements to increase readability.(þ™ÅÞ
+Isquid:S1135n"2Complete the task associated to this TODO comment.(ŽÜ¡û
+Jsquid:S1135…"2Complete the task associated to this TODO comment.(ŽÜ¡û
+Lsquid:EmptyStatementUsageCheckˆ"Remove this empty statement.(ôŸŽìúÿÿÿÿ
+Lsquid:EmptyStatementUsageCheck¢"Remove this empty statement.(ôŸŽìúÿÿÿÿ
+Lsquid:EmptyStatementUsageCheck­"Remove this empty statement.(ôŸŽìúÿÿÿÿ
+Lsquid:EmptyStatementUsageCheck¾"Remove this empty statement.(ôŸŽìúÿÿÿÿ
+Q"squid:SwitchLastCaseIsDefaultCheck¾""Add a default case to this switch.(þ™ÅÞ
+Lsquid:EmptyStatementUsageCheckË"Remove this empty statement.(ôŸŽìúÿÿÿÿ
+Q"squid:SwitchLastCaseIsDefaultCheckÐ""Add a default case to this switch.(þ™ÅÞ
+Lsquid:EmptyStatementUsageCheck×"Remove this empty statement.(ôŸŽìúÿÿÿÿ
+osquid:S3776ƒ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¥Ï¼æÿÿÿÿÿ
+Lsquid:EmptyStatementUsageCheckÍ"Remove this empty statement.(ôŸŽìúÿÿÿÿ
+>squid:S1905å"&Remove this unnecessary cast to "int".(¼‰«Ô
+=squid:S1905æ"&Remove this unnecessary cast to "int".(æÀ£Y

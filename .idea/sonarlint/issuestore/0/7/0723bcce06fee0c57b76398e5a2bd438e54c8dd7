@@ -1,0 +1,24 @@
+
+"squid:ClassVariableVisibilityCheck"NMake pt a static final constant or non-public and provide accessors if needed.(¢İçùÿÿÿÿ
+~"squid:ClassVariableVisibilityCheck"PMake size a static final constant or non-public and provide accessors if needed.(ÎÙ¾…
+„"squid:ClassVariableVisibilityCheck"QMake angle a static final constant or non-public and provide accessors if needed.(ó¢Œ„şÿÿÿÿ
+‡"squid:ClassVariableVisibilityCheck"TMake response a static final constant or non-public and provide accessors if needed.(¡Ò¡°ùÿÿÿÿ
+…"squid:ClassVariableVisibilityCheck"RMake octave a static final constant or non-public and provide accessors if needed.(íó¶Íûÿÿÿÿ
+‡"squid:ClassVariableVisibilityCheck!"TMake class_id a static final constant or non-public and provide accessors if needed.(”ªÙäüÿÿÿÿ
+nsquid:S00117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÓ¤óùÿÿÿÿ
+nsquid:S00117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÓ¤óùÿÿÿÿ
+nsquid:S00117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÓ¤óùÿÿÿÿ
+nsquid:S00117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÓ¤óùÿÿÿÿ
+nsquid:S00117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÓ¤óùÿÿÿÿ
+isquid:S001175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù Ü
+isquid:S001175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù Ü
+isquid:S001175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù Ü
+isquid:S001175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù Ü
+nsquid:S00117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¢ÄÍÿÿÿÿÿ
+nsquid:S00117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¢ÄÍÿÿÿÿÿ
+nsquid:S00117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¢ÄÍÿÿÿÿÿ
+nsquid:S00117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áİ°Úÿÿÿÿÿ
+nsquid:S00117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áİ°Úÿÿÿÿÿ
+nsquid:S00117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤›Îıÿÿÿÿ
+}squid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(ï¯ôŠÿÿÿÿÿ
+psquid:S00116!"SRename this field "class_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ªÙäüÿÿÿÿ

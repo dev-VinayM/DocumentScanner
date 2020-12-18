@@ -1,0 +1,89 @@
+
+usquid:S1488O"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(˜ÕŠÒ
+zsquid:S1488]"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(¸¶Äåÿÿÿÿÿ
+usquid:S1488f"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(¿­†ã
+zsquid:S1488u"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(ÒŠºüÿÿÿÿ
+usquid:S1488~"^Immediately return this expression instead of assigning it to the temporary variable "retVal".( ¿–”
+{squid:S1488Œ"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(¹ºæĞÿÿÿÿÿ
+{squid:S1488•"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(ëÓ«ıÿÿÿÿ
+vsquid:S1488£"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(›•À§
+{squid:S1488¬"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(çæ±¨úÿÿÿÿ
+isquid:S00117s"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿óÕğ
+isquid:S00117t"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Ÿ³
+isquid:S00117}"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿óÕğ
+jsquid:S00117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üª¥Ø
+jsquid:S00117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üª¥Ø
+jsquid:S00117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Ÿ³
+osquid:S00117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íô‚­şÿÿÿÿ
+jsquid:S00117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Âì§
+jsquid:S00117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Âì§
+jsquid:S00117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Âì§
+osquid:S00117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒŞ®øÿÿÿÿ
+osquid:S00117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒŞ®øÿÿÿÿ
+jsquid:S00117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÒ·Ê
+osquid:S00117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Óêºıÿÿÿÿ
+osquid:S00117Ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü«ˆğùÿÿÿÿ
+osquid:S00117Ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü«ˆğùÿÿÿÿ
+osquid:S00117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å…’ıÿÿÿÿ
+zsquid:UselessImportCheck"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ôİÕıÿÿÿÿ
+Tsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+Lsquid:S1659"5Declare "CV_LOAD_IMAGE_GRAYSCALE" on a separate line.(Ÿ–
+Msquid:S1659"1Declare "CV_LOAD_IMAGE_COLOR" on a separate line.(ˆ••æüÿÿÿÿ
+Ksquid:S1659"4Declare "CV_LOAD_IMAGE_ANYDEPTH" on a separate line.(¶ÏÙ
+Ksquid:S1659"4Declare "CV_LOAD_IMAGE_ANYCOLOR" on a separate line.(Áï‘¦
+Lsquid:S1659"5Declare "CV_IMWRITE_JPEG_QUALITY" on a separate line.(°¬Ó
+Usquid:S1659"9Declare "CV_IMWRITE_JPEG_PROGRESSIVE" on a separate line.(´­öıÿÿÿÿ
+Msquid:S1659"6Declare "CV_IMWRITE_JPEG_OPTIMIZE" on a separate line.(‰ğö
+Qsquid:S1659":Declare "CV_IMWRITE_JPEG_RST_INTERVAL" on a separate line.(¶ë÷Á
+Vsquid:S1659":Declare "CV_IMWRITE_JPEG_LUMA_QUALITY" on a separate line.(ãºä’ÿÿÿÿÿ
+Xsquid:S1659"<Declare "CV_IMWRITE_JPEG_CHROMA_QUALITY" on a separate line.(Úıûùÿÿÿÿ
+Osquid:S1659"8Declare "CV_IMWRITE_PNG_COMPRESSION" on a separate line.(İóö
+Lsquid:S1659"5Declare "CV_IMWRITE_PNG_STRATEGY" on a separate line.(ĞÌÿş
+Psquid:S1659"4Declare "CV_IMWRITE_PNG_BILEVEL" on a separate line.(ÛÈå•şÿÿÿÿ
+Tsquid:S1659 "=Declare "CV_IMWRITE_PNG_STRATEGY_DEFAULT" on a separate line.(•µì²
+Zsquid:S1659!">Declare "CV_IMWRITE_PNG_STRATEGY_FILTERED" on a separate line.(ô¿‡ şÿÿÿÿ
+^squid:S1659""BDeclare "CV_IMWRITE_PNG_STRATEGY_HUFFMAN_ONLY" on a separate line.(¯»Ê×ÿÿÿÿÿ
+Usquid:S1659#"9Declare "CV_IMWRITE_PNG_STRATEGY_RLE" on a separate line.(ˆˆã§şÿÿÿÿ
+Rsquid:S1659$";Declare "CV_IMWRITE_PNG_STRATEGY_FIXED" on a separate line.(Ê²­æ
+Jsquid:S1659%"3Declare "CV_IMWRITE_PXM_BINARY" on a separate line.(ÎÔ®Ä
+Qsquid:S1659&"5Declare "CV_IMWRITE_WEBP_QUALITY" on a separate line.(Îğ±‘ùÿÿÿÿ
+Hsquid:S1659'",Declare "CV_CVTIMG_FLIP" on a separate line.(Ö¢† øÿÿÿÿ
+Ksquid:S1659("/Declare "CV_CVTIMG_SWAP_RB" on a separate line.(‡ƒôúùÿÿÿÿ
+Jsquid:S1659)".Declare "IMREAD_UNCHANGED" on a separate line.(Á€¿íúÿÿÿÿ
+Esquid:S1659*".Declare "IMREAD_GRAYSCALE" on a separate line.(­º…Æ
+Fsquid:S1659+"*Declare "IMREAD_COLOR" on a separate line.(ıÒğüÿÿÿÿ
+Dsquid:S1659,"-Declare "IMREAD_ANYDEPTH" on a separate line.(ùà’¯
+Dsquid:S1659-"-Declare "IMREAD_ANYCOLOR" on a separate line.(ß­„ù
+Esquid:S1659.".Declare "IMREAD_LOAD_GDAL" on a separate line.(Œğıü
+Osquid:S1659/"8Declare "IMREAD_REDUCED_GRAYSCALE_2" on a separate line.(û¾¤¼
+Psquid:S16590"4Declare "IMREAD_REDUCED_COLOR_2" on a separate line.(À§‘üÿÿÿÿ
+Tsquid:S16591"8Declare "IMREAD_REDUCED_GRAYSCALE_4" on a separate line.(áæä˜úÿÿÿÿ
+Ksquid:S16592"4Declare "IMREAD_REDUCED_COLOR_4" on a separate line.(á”Ğ¢
+Nsquid:S16593"8Declare "IMREAD_REDUCED_GRAYSCALE_8" on a separate line.(æå5
+Ksquid:S16594"4Declare "IMREAD_REDUCED_COLOR_8" on a separate line.(´·ì•
+Isquid:S16595"2Declare "IMWRITE_JPEG_QUALITY" on a separate line.(¾à®·
+Rsquid:S16596"6Declare "IMWRITE_JPEG_PROGRESSIVE" on a separate line.(ŒÈ­¨ÿÿÿÿÿ
+Jsquid:S16597"3Declare "IMWRITE_JPEG_OPTIMIZE" on a separate line.(É™Š€
+Ssquid:S16598"7Declare "IMWRITE_JPEG_RST_INTERVAL" on a separate line.(ıÆõ·úÿÿÿÿ
+Ssquid:S16599"7Declare "IMWRITE_JPEG_LUMA_QUALITY" on a separate line.(ÔÿôÖşÿÿÿÿ
+Psquid:S1659:"9Declare "IMWRITE_JPEG_CHROMA_QUALITY" on a separate line.( Ó‘ğ
+Lsquid:S1659;"5Declare "IMWRITE_PNG_COMPRESSION" on a separate line.(ıÄŠ¡
+Isquid:S1659<"2Declare "IMWRITE_PNG_STRATEGY" on a separate line.(Ööû©
+Gsquid:S1659="1Declare "IMWRITE_PNG_BILEVEL" on a separate line.(Ú×³m
+Lsquid:S1659>"0Declare "IMWRITE_PXM_BINARY" on a separate line.(ŒÕ’ˆøÿÿÿÿ
+Nsquid:S1659?"2Declare "IMWRITE_WEBP_QUALITY" on a separate line.(ŒÒŸßüÿÿÿÿ
+Vsquid:S1659@":Declare "IMWRITE_PNG_STRATEGY_DEFAULT" on a separate line.(¤ºˆ‹øÿÿÿÿ
+Wsquid:S1659A";Declare "IMWRITE_PNG_STRATEGY_FILTERED" on a separate line.(Èêªÿÿÿÿÿ
+Vsquid:S1659B"?Declare "IMWRITE_PNG_STRATEGY_HUFFMAN_ONLY" on a separate line.(¹­Œå
+Rsquid:S1659C"6Declare "IMWRITE_PNG_STRATEGY_RLE" on a separate line.(©ï²“øÿÿÿÿ
+Tsquid:S1659D"8Declare "IMWRITE_PNG_STRATEGY_FIXED" on a separate line.(ùÆ·Øøÿÿÿÿ
+Qsquid:S1118":Add a private constructor to hide the implicit public one.(‡Œû‡
+lsquid:S00100µ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íô‚­şÿÿÿÿ
+lsquid:S00100¸"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï£÷‚ûÿÿÿÿ
+lsquid:S00100¹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÆğåıÿÿÿÿ
+gsquid:S00100¼"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Âì§
+lsquid:S00100½"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒŞ®øÿÿÿÿ
+gsquid:S00100À"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÒ·Ê
+lsquid:S00100Á"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Óêºıÿÿÿÿ
+lsquid:S00100Ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü«ˆğùÿÿÿÿ
+lsquid:S00100Å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å…’ıÿÿÿÿ

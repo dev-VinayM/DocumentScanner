@@ -1,0 +1,92 @@
+
+zsquid:S1488W"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(ØÇ²Äøÿÿÿÿ
+usquid:S1488n"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(ÁÂ×…
+{squid:S1488…"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(¬¥‹úÿÿÿÿ
+{squid:S1488œ"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(†™ˆ™ûÿÿÿÿ
+usquid:S1488ª"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(òçê'
+vsquid:S1488¸"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(œõ©„
+vsquid:S1488Ö"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(ù›ö§
+{squid:S1488ä"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(ı•®®øÿÿÿÿ
+vsquid:S1488ò"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(ÆœÏŞ
+nsquid:S00117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Œ­½úÿÿÿÿ
+nsquid:S00117d"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›øÎµıÿÿÿÿ
+nsquid:S00117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»§ğ­üÿÿÿÿ
+jsquid:S00117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íò«œ
+jsquid:S00117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì«Îç
+isquid:S00117Æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öêÿ
+jsquid:S00117ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ„ÀÅ
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«úôäúÿÿÿÿ
+osquid:S00117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËŠœĞùÿÿÿÿ
+jsquid:S00117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÖÙì
+jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±‰È‰
+osquid:S00117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”»—Ûşÿÿÿÿ
+jsquid:S00117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Ç’¢
+jsquid:S00117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Ç’¢
+jsquid:S00117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Ç’¢
+jsquid:S00117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Ç’¢
+osquid:S00117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š€¶¸ûÿÿÿÿ
+osquid:S00117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º«…›øÿÿÿÿ
+jsquid:S00117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªîôí
+osquid:S00117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨É¹ÿÿÿÿÿ
+osquid:S00117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨É¹ÿÿÿÿÿ
+osquid:S00117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨É¹ÿÿÿÿÿ
+osquid:S00117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÌ¶âÿÿÿÿÿ
+osquid:S00117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÌ¶âÿÿÿÿÿ
+jsquid:S00117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à±ÿ
+jsquid:S00117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à±ÿ
+jsquid:S00117å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÚŒş
+jsquid:S00117å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÚŒş
+jsquid:S00117å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÚŒş
+jsquid:S00117å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÚŒş
+osquid:S00117ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂˆÇ‡şÿÿÿÿ
+jsquid:S00117ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ª‘¬
+jsquid:S00117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“§…
+jsquid:S00117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“§…
+jsquid:S00117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“§…
+jsquid:S00117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“µ³ä
+jsquid:S00117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“µ³ä
+jsquid:S00117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“µ³ä
+jsquid:S00117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“µ³ä
+jsquid:S00117ı"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”œ©¢
+Tsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+Lsquid:S1659"0Declare "PTLOC_OUTSIDE_RECT" on a separate line.(ĞŠôÍüÿÿÿÿ
+Fsquid:S1659"*Declare "PTLOC_INSIDE" on a separate line.(Œ†ÛŸùÿÿÿÿ
+Fsquid:S1659"*Declare "PTLOC_VERTEX" on a separate line.(Â³Œşÿÿÿÿ
+Gsquid:S1659"+Declare "PTLOC_ON_EDGE" on a separate line.(­õÈßùÿÿÿÿ
+Dsquid:S1659 "-Declare "NEXT_AROUND_ORG" on a separate line.(ĞëŠ»
+Dsquid:S1659!"-Declare "NEXT_AROUND_DST" on a separate line.(”ıãò
+Dsquid:S1659""-Declare "PREV_AROUND_ORG" on a separate line.(ôƒœ
+Csquid:S1659#"-Declare "PREV_AROUND_DST" on a separate line.(‹ı
+Esquid:S1659$".Declare "NEXT_AROUND_LEFT" on a separate line.(èìÍ³
+Fsquid:S1659%"/Declare "NEXT_AROUND_RIGHT" on a separate line.(¿Ë§æ
+Esquid:S1659&".Declare "PREV_AROUND_LEFT" on a separate line.(õ–·ú
+Ksquid:S1659'"/Declare "PREV_AROUND_RIGHT" on a separate line.(í¤«Íÿÿÿÿÿ
+2squid:S36264"Remove this redundant jump.(ûÁİ…
+2squid:S3626B"Remove this redundant jump.(ûÁİ…
+3squid:S3626‚"Remove this redundant jump.(ûÁİ…
+3squid:S3626"Remove this redundant jump.(ûÁİ…
+3squid:S3626¡"Remove this redundant jump.(ûÁİ…
+3squid:S3626¯"Remove this redundant jump.(ûÁİ…
+3squid:S3626½"Remove this redundant jump.(ûÁİ…
+a"squid:ObjectFinalizeOverridenCheckÂ"-Do not override the Object.finalize() method.(ÖÒ˜Ùùÿÿÿÿ
+gsquid:S00100É"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Ç’¢
+fsquid:S00100Ì"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ıÁ
+lsquid:S00100Ï"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š€¶¸ûÿÿÿÿ
+lsquid:S00100Ğ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ¿üÿÿÿÿ
+lsquid:S00100Ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º«…›øÿÿÿÿ
+lsquid:S00100Ô"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕØışÿÿÿÿ
+gsquid:S00100×"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªîôí
+lsquid:S00100Ø"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÆ¸ÿÿÿÿÿ
+lsquid:S00100Û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨É¹ÿÿÿÿÿ
+lsquid:S00100Ü"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÌ¶âÿÿÿÿÿ
+lsquid:S00100ß"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚŸš¨øÿÿÿÿ
+gsquid:S00100â"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à±ÿ
+gsquid:S00100å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÚŒş
+lsquid:S00100è"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼‡÷ùÿÿÿÿ
+gsquid:S00100ë"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì¢£è
+lsquid:S00100î"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å¨€éùÿÿÿÿ
+lsquid:S00100ñ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂˆÇ‡şÿÿÿÿ
+gsquid:S00100ô"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ª‘¬
+gsquid:S00100÷"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“§…
+gsquid:S00100ú"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“µ³ä
+gsquid:S00100ı"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”œ©¢

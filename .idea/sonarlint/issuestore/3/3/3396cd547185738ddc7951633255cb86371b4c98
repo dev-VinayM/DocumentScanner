@@ -1,0 +1,24 @@
+
+usquid:S1488 "^Immediately return this expression instead of assigning it to the temporary variable "retVal".(æ√√ﬂ
+usquid:S1488."^Immediately return this expression instead of assigning it to the temporary variable "retVal".(á•πÏ
+zsquid:S1488<"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(àõﬂΩ˙ˇˇˇˇ
+zsquid:S1488J"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(èèπÈ˛ˇˇˇˇ
+usquid:S1488f"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(Õ≤Â∂
+usquid:S1488o"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(ÁÀˆÌ
+usquid:S1488}"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(¬¨°™
+osquid:S00117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬œµ‰˚ˇˇˇˇ
+osquid:S00117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬œµ‰˚ˇˇˇˇ
+osquid:S00117ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä≠ÖÁ¸ˇˇˇˇ
+osquid:S00117ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä≠ÖÁ¸ˇˇˇˇ
+isquid:S00117ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡∞∫K
+Dsquid:S1659"(Declare "RAW_OUTPUT" on a separate line.(Ú† …˙ˇˇˇˇ
+Esquid:S1659".Declare "COMPRESSED_INPUT" on a separate line.( ıØ∆
+Lsquid:S1659"0Declare "PREPROCESSED_INPUT" on a separate line.(™Úﬁµ˝ˇˇˇˇ
+a"squid:ObjectFinalizeOverridenCheckÑ"-Do not override the Object.finalize() method.(÷“òŸ˘ˇˇˇˇ
+lsquid:S00100ã"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â¨‡‚˛ˇˇˇˇ
+gsquid:S00100é"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â—Ôñ
+gsquid:S00100ë"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü∑Áå
+lsquid:S00100î"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬œµ‰˚ˇˇˇˇ
+lsquid:S00100ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä≠ÖÁ¸ˇˇˇˇ
+fsquid:S00100ò"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡∞∫K
+lsquid:S00100õ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª∫±«˘ˇˇˇˇ

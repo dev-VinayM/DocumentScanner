@@ -1,0 +1,18 @@
+
+?squid:S1148C"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148€"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+{squid:S1450"_Remove the "MagicColorButton" field and declare it as a local variable in the relevant methods.(…à¨üÿÿÿÿ
+˜squid:S1186!"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¤ëÒÙ
+xsquid:S00116"[Rename this field "MagicColorButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…à¨üÿÿÿÿ
+Psquid:S1068"2Remove this unused "bitmapFileName" private field.(üè±Ò8î½‘ßÕ.
+nsquid:S1450"WRemove the "bwButton" field and declare it as a local variable in the relevant methods.(á¤ô
+psquid:S1450"YRemove the "doneButton" field and declare it as a local variable in the relevant methods.(ÛÜàû
+@squid:S1148¼"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+tsquid:S1450"]Remove the "grayModeButton" field and declare it as a local variable in the relevant methods.(ïŒâ
+ksquid:S1215a"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“
+@squid:S1148Ñ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148j"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148¡"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+ysquid:S1450"]Remove the "originalButton" field and declare it as a local variable in the relevant methods.(ÿ‹‡ÿÿÿÿÿ
+{squid:S1450"]Remove the "bitmapFileName" field and declare it as a local variable in the relevant methods.(üè±Ò8î½‘ßÕ.
+rsquid:S1488I"[Immediately return this expression instead of assigning it to the temporary variable "uri".(òãßš

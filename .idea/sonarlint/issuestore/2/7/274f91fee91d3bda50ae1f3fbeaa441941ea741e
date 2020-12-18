@@ -1,0 +1,86 @@
+
+usquid:S1488W"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(¾ÃÃß
+tsquid:S1488e"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(¾Òõe
+nsquid:S00117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çöÎøÿÿÿÿÿ
+nsquid:S00117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çöÎøÿÿÿÿÿ
+jsquid:S00117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”äÛè
+jsquid:S00117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®éâá
+osquid:S00117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øğÇ¹üÿÿÿÿ
+jsquid:S00117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”äÛè
+jsquid:S00117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®éâá
+jsquid:S00117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•õ³­
+jsquid:S00117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•õ³­
+jsquid:S00117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•õ³­
+osquid:S00117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êË¹êøÿÿÿÿ
+osquid:S00117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êË¹êøÿÿÿÿ
+jsquid:S00117Ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÂÚ 
+jsquid:S00117Ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÂÚ 
+jsquid:S00117Ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÂÚ 
+osquid:S00117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔüÜãşÿÿÿÿ
+osquid:S00117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔüÜãşÿÿÿÿ
+zsquid:UselessImportCheck"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ôİÕıÿÿÿÿ
+Tsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+Csquid:S1659"-Declare "PYRAMIDDETECTOR" on a separate line.(ï¦Ÿ	
+Isquid:S1659"-Declare "DYNAMICDETECTOR" on a separate line.(çš³Îûÿÿÿÿ
+>squid:S1659""Declare "STAR" on a separate line.(œ¸¥úÿÿÿÿ
+>squid:S1659""Declare "SIFT" on a separate line.(ğÒëÑûÿÿÿÿ
+>squid:S1659 ""Declare "SURF" on a separate line.(ãğÿÿÿÿÿ
+8squid:S1659!"!Declare "ORB" on a separate line.(Æ¤Åœ
+9squid:S1659"""Declare "MSER" on a separate line.(‘üóÁ
+>squid:S1659#""Declare "GFTT" on a separate line.(£ù»ƒüÿÿÿÿ
+;squid:S1659$"$Declare "HARRIS" on a separate line.(™¿„¹
+Dsquid:S1659%"(Declare "SIMPLEBLOB" on a separate line.(§•â¿ÿÿÿÿÿ
+:squid:S1659&"#Declare "DENSE" on a separate line.(ù¬ç‚
+:squid:S1659'"#Declare "BRISK" on a separate line.(ïÚ§‹
+?squid:S1659("#Declare "AKAZE" on a separate line.(¦Ú­şøÿÿÿÿ
+>squid:S1659)"'Declare "GRID_FAST" on a separate line.(´…×©
+Csquid:S1659*"'Declare "GRID_STAR" on a separate line.(ÁÀşöúÿÿÿÿ
+Csquid:S1659+"'Declare "GRID_SIFT" on a separate line.(ŞÔ›²şÿÿÿÿ
+>squid:S1659,"'Declare "GRID_SURF" on a separate line.(ñéåŞ
+Bsquid:S1659-"&Declare "GRID_ORB" on a separate line.(†§øÿÿÿÿÿ
+>squid:S1659."'Declare "GRID_MSER" on a separate line.(Ø¶¥Ò
+Csquid:S1659/"'Declare "GRID_GFTT" on a separate line.(ğŠ¥÷ûÿÿÿÿ
+@squid:S16590")Declare "GRID_HARRIS" on a separate line.(çîø
+Isquid:S16591"-Declare "GRID_SIMPLEBLOB" on a separate line.(Æúœüÿÿÿÿ
+?squid:S16592"(Declare "GRID_DENSE" on a separate line.(Å¶
+?squid:S16593"(Declare "GRID_BRISK" on a separate line.(©ğí
+Dsquid:S16594"(Declare "GRID_AKAZE" on a separate line.(ˆÁù´úÿÿÿÿ
+Fsquid:S16595"*Declare "PYRAMID_FAST" on a separate line.(ŸÓÎ½øÿÿÿÿ
+Asquid:S16596"*Declare "PYRAMID_STAR" on a separate line.(‚ß³ü
+Asquid:S16597"*Declare "PYRAMID_SIFT" on a separate line.(èıœ®
+Fsquid:S16598"*Declare "PYRAMID_SURF" on a separate line.(ßä€êùÿÿÿÿ
+Esquid:S16599")Declare "PYRAMID_ORB" on a separate line.(•ıÇ•ûÿÿÿÿ
+Fsquid:S1659:"*Declare "PYRAMID_MSER" on a separate line.(Ûé¦Åûÿÿÿÿ
+Fsquid:S1659;"*Declare "PYRAMID_GFTT" on a separate line.(›Óõøÿÿÿÿ
+Csquid:S1659<",Declare "PYRAMID_HARRIS" on a separate line.(¸›ÕĞ
+Lsquid:S1659="0Declare "PYRAMID_SIMPLEBLOB" on a separate line.(µìÕŒùÿÿÿÿ
+Gsquid:S1659>"+Declare "PYRAMID_DENSE" on a separate line.(áä–Çûÿÿÿÿ
+Gsquid:S1659?"+Declare "PYRAMID_BRISK" on a separate line.(„µ•¬ÿÿÿÿÿ
+Bsquid:S1659@"+Declare "PYRAMID_AKAZE" on a separate line.(â««Ì
+Asquid:S1659A"*Declare "DYNAMIC_FAST" on a separate line.(Èö”Ç
+Asquid:S1659B"*Declare "DYNAMIC_STAR" on a separate line.(ëÿ¹¹
+Fsquid:S1659C"*Declare "DYNAMIC_SIFT" on a separate line.(¤­Êáşÿÿÿÿ
+Asquid:S1659D"*Declare "DYNAMIC_SURF" on a separate line.(éÔù†
+@squid:S1659E")Declare "DYNAMIC_ORB" on a separate line.(Ãµñó
+Fsquid:S1659F"*Declare "DYNAMIC_MSER" on a separate line.(èéËøÿÿÿÿ
+Fsquid:S1659G"*Declare "DYNAMIC_GFTT" on a separate line.(Ë‚òîøÿÿÿÿ
+Bsquid:S1659H",Declare "DYNAMIC_HARRIS" on a separate line.(²õò~
+Fsquid:S1659I"0Declare "DYNAMIC_SIMPLEBLOB" on a separate line.(İÑ¿
+Bsquid:S1659J"+Declare "DYNAMIC_DENSE" on a separate line.(ÂÃ¡‰
+Gsquid:S1659K"+Declare "DYNAMIC_BRISK" on a separate line.(é…—âıÿÿÿÿ
+Bsquid:S1659L"+Declare "DYNAMIC_AKAZE" on a separate line.(ÒÀ¼
+2squid:S3626u"Remove this redundant jump.(ûÁİ…
+2squid:S3626~"Remove this redundant jump.(ûÁİ…
+3squid:S3626"Remove this redundant jump.(ûÁİ…
+3squid:S3626š"Remove this redundant jump.(ûÁİ…
+3squid:S3626¨"Remove this redundant jump.(ûÁİ…
+3squid:S3626¶"Remove this redundant jump.(ûÁİ…
+a"squid:ObjectFinalizeOverridenCheck»"-Do not override the Object.finalize() method.(ÖÒ˜Ùùÿÿÿÿ
+lsquid:S00100Â"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å¬àâşÿÿÿÿ
+fsquid:S00100Å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸í6
+gsquid:S00100È"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•õ³­
+lsquid:S00100É"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êË¹êøÿÿÿÿ
+gsquid:S00100Ì"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÂÚ 
+lsquid:S00100Í"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔüÜãşÿÿÿÿ
+lsquid:S00100Ğ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èùîÿÿÿÿÿ
+gsquid:S00100Ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØßƒÊ

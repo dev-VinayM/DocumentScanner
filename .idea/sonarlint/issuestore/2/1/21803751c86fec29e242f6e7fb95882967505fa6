@@ -1,0 +1,8 @@
+
+jsquid:S00117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€šŒú
+squid:S1488l"eImmediately return this expression instead of assigning it to the temporary variable "orderedPoints".(öò€éøÿÿÿÿ
+?squid:S1148T"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Hsquid:S3398§"0Move this method into "ScanButtonClickListener".(¹ÚÆã
+usquid:S1450"YRemove the "scanButton" field and declare it as a local variable in the relevant methods.(¹ô™øÿÿÿÿ
+squid:S11868"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(»ò·Íúÿÿÿÿ
+Msquid:S3398¡"0Move this method into "ScanButtonClickListener".(éıÓØúÿÿÿÿ

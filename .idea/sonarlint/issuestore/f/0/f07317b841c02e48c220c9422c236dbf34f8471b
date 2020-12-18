@@ -1,0 +1,7 @@
+
+nsquid:S00117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ÛÆâùÿÿÿÿ
+[squid:S1155…">Use isEmpty() to check whether the collection is empty or not.( íØÉúÿÿÿÿ
+isquid:S3776%"RRefactor this method to reduce its Cognitive Complexity from 55 to the 15 allowed.(¼á¨ô
+isquid:S3776x"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(†ÐÇ°
+?squid:S1659„"(Declare "bestHeight" on a separate line.(”°í6
+<squid:S1659ˆ"Declare "h" on a separate line.(¥±Óøùÿÿÿÿ

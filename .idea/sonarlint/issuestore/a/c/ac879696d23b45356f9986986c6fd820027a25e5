@@ -1,0 +1,11 @@
+
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚æ²áþÿÿÿÿ
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚æ²áþÿÿÿÿ
+hsquid:S001175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ§ }
+hsquid:S001175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ§ }
+hsquid:S001175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ§ }
+2squid:S3626"Remove this redundant jump.(ûÁÝ…
+2squid:S3626)"Remove this redundant jump.(ûÁÝ…
+`"squid:ObjectFinalizeOverridenCheck."-Do not override the Object.finalize() method.(ÖÒ˜Ùùÿÿÿÿ
+esquid:S001005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ§ }
+fsquid:S001008"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰½´‘

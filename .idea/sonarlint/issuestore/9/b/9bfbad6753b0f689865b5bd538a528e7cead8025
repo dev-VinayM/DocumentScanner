@@ -1,0 +1,35 @@
+
+Ssquid:S3398ñ"/Move this method into "PrivateOnTouchListener".(‰Šß‹ıÿÿÿÿ8ÓÚƒµÕ.
+qsquid:S1871ß"MThis branch's code block is the same as the block for the branch on line 732.(‡ºø§úÿÿÿÿ8ÓÚƒµÕ.
+"squid:ClassVariableVisibilityCheckî	"RMake focusY a static final constant or non-public and provide accessors if needed.(Ôµ‡Éşÿÿÿÿ8ÓÚƒµÕ.
+"squid:ClassVariableVisibilityCheckï	"UMake scaleType a static final constant or non-public and provide accessors if needed.(ÿ• ³ùÿÿÿÿ8ÓÚƒµÕ.
+Isquid:S1659L"+Declare "prevViewWidth" on a separate line.(‰±©ë8ÓÚƒµÕ.
+Bsquid:S1659×"#Declare "currY" on a separate line.(Îó8ÓÚƒµÕ.
+Gsquid:S1659Á"(Declare "targetZoom" on a separate line.(Ê’Æ¦8ÓÚƒµÕ.
+Gsquid:S27864")Remove this redundant "static" qualifier.(Ù‹æ˜8ÓÚƒµÕ.
+Rsquid:EmptyStatementUsageCheck6"Remove this empty statement.(Åñ­õşÿÿÿÿ8ÓÚƒµÕ.
+Ksquid:S1659Q"-Declare "matchViewHeight" on a separate line.(Íæ… 8ÓÚƒµÕ.
+asquid:S00107¯	"<Method has 8 parameters, which is greater than 7 authorized.(©§Æúÿÿÿÿ8ÓÚƒµÕ.
+@squid:S1659à""Declare "maxX" on a separate line.(ÎˆÙ88ÓÚƒµÕ.
+Ksquid:S16592"(Declare "prevMatrix" on a separate line.(‘›Ğ°ÿÿÿÿÿ8ÓÚƒµÕ.
+esquid:S2184†"ACast one of the operands of this division operation to a "float".(µâ¨øÿÿÿÿ8ÓÚƒµÕ.
+Jsquid:S1659ß"&Declare "maxTrans" on a separate line.(óãÙ¼úÿÿÿÿ8ÓÚƒµÕ.
+Dsquid:S3398Â"&Move this method into "DoubleTapZoom".(Ÿ°şH8ÓÚƒµÕ.
+`squid:S2184¨"ACast one of the operands of this division operation to a "float".(ªÄÜ•8ÓÚƒµÕ.
+Œ"squid:ClassVariableVisibilityCheckì	"QMake scale a static final constant or non-public and provide accessors if needed.(¥…±öùÿÿÿÿ8ÓÚƒµÕ.
+Osquid:S1659Q"1Declare "prevMatchViewHeight" on a separate line.(Íæ… 8ÓÚƒµÕ.
+esquid:S2184†"ACast one of the operands of this division operation to a "float".(µâ¨øÿÿÿÿ8ÓÚƒµÕ.
+`squid:S2184¨"ACast one of the operands of this division operation to a "float".(ªÄÜ•8ÓÚƒµÕ.
+Fsquid:S1659L"(Declare "viewHeight" on a separate line.(‰±©ë8ÓÚƒµÕ.
+Gsquid:S1659Ÿ"(Declare "upperScale" on a separate line.(¼â®8ÓÚƒµÕ.
+i
+squid:S128½"LEnd this switch case with an unconditional break, return or throw statement.(ê¢ö(8ÓÚƒµÕ.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¼¯‹ƒ8ÓÚƒµÕ.
+]"squid:SwitchLastCaseIsDefaultCheck¼""Add a default case to this switch.(ãÁğ™øÿÿÿÿ8ÓÚƒµÕ.
+Jsquid:S1659L",Declare "prevViewHeight" on a separate line.(‰±©ë8ÓÚƒµÕ.
+Nsquid:S1659Q"0Declare "prevMatchViewWidth" on a separate line.(Íæ… 8ÓÚƒµÕ.
+@squid:S1659à""Declare "minY" on a separate line.(ÎˆÙ88ÓÚƒµÕ.
+@squid:S1659à""Declare "maxY" on a separate line.(ÎˆÙ88ÓÚƒµÕ.
+"squid:ClassVariableVisibilityCheckí	"RMake focusX a static final constant or non-public and provide accessors if needed.(®àµşÿÿÿÿ8ÓÚƒµÕ.
+lsquid:S1871â"MThis branch's code block is the same as the block for the branch on line 732.(¬ºûß8ÓÚƒµÕ.
+Isquid:S1659Â"%Declare "bitmapY" on a separate line.(³¢ôùÿÿÿÿ8ÓÚƒµÕ.

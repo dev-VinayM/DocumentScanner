@@ -1,0 +1,7 @@
+
+jsquid:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Çñâ¶üÿÿÿÿ
+osquid:S00117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹õ‘ùÿÿÿÿ
+osquid:S00117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÀ¦¨ûÿÿÿÿ
+?squid:S1148+"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Qsquid:S1118":Add a private constructor to hide the implicit public one.(¼Øûì
+fsquid:S3027"JPut single-quotes around '/' to use the faster "lastIndexOf(char)" method.(ßŠâÆøÿÿÿÿ

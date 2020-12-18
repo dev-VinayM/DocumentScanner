@@ -1,0 +1,57 @@
+
+R
+java:S1874-"0Remove this use of "onAttach"; it is deprecated.(„ÿªûúÿÿÿÿ8ÄÕóäæ.
+P
+java:S1874”"2Remove this use of "getContext"; it is deprecated.(Ï¥å²8ÄÕóäæ.
+D	java:S131¡""Add a default case to this switch.(×ö³–úÿÿÿÿ8ÄÕóäæ.
+[
+java:S1874‰">Remove this use of "startActivityForResult"; it is deprecated.(ª·ı48ÄÕóäæ.
+U
+java:S1874C"3Remove this use of "getActivity"; it is deprecated.(Ğ†¤˜úÿÿÿÿ8ÄÕóäæ.
+t
+java:S2095À"QUse try-with-resources or close this "AssetFileDescriptor" in a "finally" clause.(ñ–’«ıÿÿÿÿ8ÄÕóäæ.
+p
+java:S4042K"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(é‘‚©úÿÿÿÿ8ÄÕóäæ.
+Q
+java:S1874`"4Remove this use of "getArguments"; it is deprecated.(…Ş˜8ÄÕóäæ.
+V
+java:S1874ï"3Remove this use of "getActivity"; it is deprecated.(æÇÏ“şÿÿÿÿ8ÄÕóäæ.
+
+java:S1488`"bImmediately return this expression instead of assigning it to the temporary variable "preference".(…Ş˜8ÄÕóäæ.
+f
+java:S1874,"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(¶±„8ÄÕóäæ.
+V
+java:S1874"3Remove this use of "getActivity"; it is deprecated.(†ÑÉÿÿÿÿÿ8ÄÕóäæ.
+O
+java:S1874{"3Remove this use of "getActivity"; it is deprecated.(ö½¼8ÄÕóäæ.
+V
+java:S1874À"3Remove this use of "getActivity"; it is deprecated.(ñ–’«ıÿÿÿÿ8ÄÕóäæ.
+g
+java:S18745"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(«ÃÀ÷8ÄÕóäæ.
+R
+java:S1874""0Remove this use of "Fragment"; it is deprecated.(ºä°¥şÿÿÿÿ8ÄÕóäæ.
+m
+java:S1874"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ÉÎÍïıÿÿÿÿ8ÄÕóäæ.
+x
+java:S1450%"[Remove the "cameraButton" field and declare it as a local variable in the relevant methods.(Î–Á8ÄÕóäæ.
+V
+java:S1874Œ"3Remove this use of "getActivity"; it is deprecated.(µ«şÿÿÿÿ8ÄÕóäæ.
+n
+java:S1301¡"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ8ÄÕóäæ.
+T
+java:S1874I"2Remove this use of "getContext"; it is deprecated.(¯Å¸ñÿÿÿÿÿ8ÄÕóäæ.
+Q
+java:S1874["4Remove this use of "getArguments"; it is deprecated.(…Ş˜8ÄÕóäæ.
+`
+java:S1874ê"BRemove this use of "onRequestPermissionsResult"; it is deprecated.(Öƒà8ÄÕóäæ.
+m
+java:S1874é"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Ó»×¶şÿÿÿÿ8ÄÕóäæ.
+~
+java:S1450&"\Remove the "galleryButton" field and declare it as a local variable in the relevant methods.(³Ë´¾úÿÿÿÿ8ÄÕóäæ.
+[
+java:S1874w">Remove this use of "startActivityForResult"; it is deprecated.(ìÃå¤8ÄÕóäæ.
+V
+java:S1874¶"3Remove this use of "getActivity"; it is deprecated.(Æôìııÿÿÿÿ8ÄÕóäæ.
+V
+java:S1874®"3Remove this use of "getActivity"; it is deprecated.(Ğ†¤˜úÿÿÿÿ8ÄÕóäæ.
+\	java:S899K";Do something with the "boolean" value returned by "delete".(é‘‚©úÿÿÿÿ8ÄÕóäæ.

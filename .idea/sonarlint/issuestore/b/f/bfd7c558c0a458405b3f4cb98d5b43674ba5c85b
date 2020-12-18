@@ -1,0 +1,86 @@
+
+}"squid:ClassVariableVisibilityCheck"OMake m00 a static final constant or non-public and provide accessors if needed.(ƒ‚ò¬
+}"squid:ClassVariableVisibilityCheck	"OMake m10 a static final constant or non-public and provide accessors if needed.(¥ä´¢
+}"squid:ClassVariableVisibilityCheck
+"OMake m01 a static final constant or non-public and provide accessors if needed.(œƒæ¬
+‚"squid:ClassVariableVisibilityCheck"OMake m20 a static final constant or non-public and provide accessors if needed.(ÔíÒµüÿÿÿÿ
+}"squid:ClassVariableVisibilityCheck"OMake m11 a static final constant or non-public and provide accessors if needed.(„ú˜¯
+‚"squid:ClassVariableVisibilityCheck"OMake m02 a static final constant or non-public and provide accessors if needed.(Ôß£ÿÿÿÿÿ
+}"squid:ClassVariableVisibilityCheck"OMake m30 a static final constant or non-public and provide accessors if needed.(²æ…Â
+}"squid:ClassVariableVisibilityCheck"OMake m21 a static final constant or non-public and provide accessors if needed.(ëÔÆé
+‚"squid:ClassVariableVisibilityCheck"OMake m12 a static final constant or non-public and provide accessors if needed.(ãÿÁØùÿÿÿÿ
+‚"squid:ClassVariableVisibilityCheck"OMake m03 a static final constant or non-public and provide accessors if needed.(ò’ƒßÿÿÿÿÿ
+~"squid:ClassVariableVisibilityCheck"PMake mu20 a static final constant or non-public and provide accessors if needed.(ç½àÍ
+~"squid:ClassVariableVisibilityCheck"PMake mu11 a static final constant or non-public and provide accessors if needed.(¸­÷ù
+}"squid:ClassVariableVisibilityCheck"PMake mu02 a static final constant or non-public and provide accessors if needed.(£ƒñt
+~"squid:ClassVariableVisibilityCheck"PMake mu30 a static final constant or non-public and provide accessors if needed.(Ÿ•˜¼
+~"squid:ClassVariableVisibilityCheck"PMake mu21 a static final constant or non-public and provide accessors if needed.(šÓ°¸
+ƒ"squid:ClassVariableVisibilityCheck"PMake mu12 a static final constant or non-public and provide accessors if needed.(…äœñûÿÿÿÿ
+~"squid:ClassVariableVisibilityCheck"PMake mu03 a static final constant or non-public and provide accessors if needed.(ìÌÍ
+ƒ"squid:ClassVariableVisibilityCheck"PMake nu20 a static final constant or non-public and provide accessors if needed.(¬‚«ğúÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheck"PMake nu11 a static final constant or non-public and provide accessors if needed.(‹¾²Íşÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheck"PMake nu02 a static final constant or non-public and provide accessors if needed.(¯ÕÑÿøÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheck"PMake nu30 a static final constant or non-public and provide accessors if needed.(ÉÎ°õøÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheck"PMake nu21 a static final constant or non-public and provide accessors if needed.(Ìï‚Åşÿÿÿÿ
+~"squid:ClassVariableVisibilityCheck "PMake nu12 a static final constant or non-public and provide accessors if needed.(ŸØ†°
+~"squid:ClassVariableVisibilityCheck!"PMake nu03 a static final constant or non-public and provide accessors if needed.(ñ‚ğÚ
+_squid:S00107#"BConstructor has 10 parameters, which is greater than 7 authorized.(çû¹ßúÿÿÿÿ
+osquid:S00117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®œÙ˜şÿÿÿÿ
+osquid:S00117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Ãè²ùÿÿÿÿ
+zsquid:UselessImportCheck"QRemove this unnecessary import: java.lang classes are always implicitly imported.(Š‘…ûıÿÿÿÿ
+hsquid:S3776D"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ƒ¼l
+=squid:S1659•" Declare "cy" on a separate line.(‡”°Éùÿÿÿÿ
+:squid:S1659–""Declare "mu11" on a separate line.(ñ×Æğ
+:squid:S1659–""Declare "mu02" on a separate line.(ñ×Æğ
+=squid:S1659·" Declare "s3" on a separate line.(ï—ç¸ÿÿÿÿÿ
+[squid:HiddenFieldCheck–"8Rename "mu20" which hides the field declared at line 19.(ñ×Æğ
+[squid:HiddenFieldCheck–"8Rename "mu11" which hides the field declared at line 20.(ñ×Æğ
+[squid:HiddenFieldCheck–"8Rename "mu02" which hides the field declared at line 21.(ñ×Æğ
+lsquid:S00100Ã"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì¤Şùÿÿÿÿ
+gsquid:S00100Ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Ø‰å
+lsquid:S00100Å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èš¾Èùÿÿÿÿ
+gsquid:S00100Æ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ÇÂ’
+lsquid:S00100Ç"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ŞóËúÿÿÿÿ
+gsquid:S00100È"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ìƒÊ
+lsquid:S00100É"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç’Ã—ùÿÿÿÿ
+lsquid:S00100Ê"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Œúıüÿÿÿÿ
+lsquid:S00100Ë"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÛ’ÿÿÿÿÿ
+lsquid:S00100Ì"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¹öûùÿÿÿÿ
+lsquid:S00100Í"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñáã½øÿÿÿÿ
+lsquid:S00100Î"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ÖĞÚıÿÿÿÿ
+gsquid:S00100Ï"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë¾Ã
+lsquid:S00100Ğ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô¾Æúÿÿÿÿ
+lsquid:S00100Ñ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ûî­ÿÿÿÿÿ
+lsquid:S00100Ò"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤™ÿÇıÿÿÿÿ
+lsquid:S00100Ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åƒ¸¨ıÿÿÿÿ
+lsquid:S00100Ô"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÁùÚøÿÿÿÿ
+gsquid:S00100Õ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øô—¶
+lsquid:S00100Ö"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ÚÑúÿÿÿÿ
+gsquid:S00100×"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óöê£
+lsquid:S00100Ø"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ï¡øÿÿÿÿ
+lsquid:S00100Ù"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€’ö„úÿÿÿÿ
+gsquid:S00100Ú"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÂ²
+lsquid:S00100Ü"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æŠ¥µøÿÿÿÿ
+fsquid:S00100İ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İŞÂ&
+gsquid:S00100Ş"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ÊïÚ
+lsquid:S00100ß"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìñàÓüÿÿÿÿ
+lsquid:S00100à"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡çÕ°úÿÿÿÿ
+gsquid:S00100á"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñÁ
+gsquid:S00100â"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş‘‘æ
+gsquid:S00100ã"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç½ˆ
+gsquid:S00100ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–¥¬
+lsquid:S00100å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğî—ëşÿÿÿÿ
+gsquid:S00100æ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¢›™
+fsquid:S00100ç"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ§š
+gsquid:S00100è"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÇÍÔ
+lsquid:S00100é"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¿ùÿÿÿÿ
+gsquid:S00100ê"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚŸêö
+gsquid:S00100ë"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ«ìÙ
+lsquid:S00100ì"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜á‘èşÿÿÿÿ
+gsquid:S00100í"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çıíŠ
+lsquid:S00100î"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìù±ÿÿÿÿÿ
+lsquid:S00100ï"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó„¦úÿÿÿÿ
+lsquid:S00100ğ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î®¤ªüÿÿÿÿ
+gsquid:S00100ñ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Ã½×
+lsquid:S00100ò"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ¢Û»üÿÿÿÿ
+lsquid:S00100ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞñÂóıÿÿÿÿ

@@ -1,0 +1,36 @@
+
+osquid:S1192a"XDefine a constant instead of duplicating this literal "Calling using callback" 12 times.(¬òÓÄ
+~squid:S1192]"bDefine a constant instead of duplicating this literal "OpenCV package was not installed!" 3 times.(½€±öüÿÿÿÿ
+qsquid:S1192`"UDefine a constant instead of duplicating this literal "Unbind from service" 11 times.(ÑÒç®þÿÿÿÿ
+…squid:S1192h"iDefine a constant instead of duplicating this literal "OpenCV library installation was canceled" 3 times.(òŠÒûÿÿÿÿÿ
+ssquid:S1192_"\Define a constant instead of duplicating this literal "Init finished with status " 12 times.(ï´‰Ý
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«‚œéüÿÿÿÿ
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«‚œéüÿÿÿÿ
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìþöî
+isquid:S00117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìµ¦ð
+isquid:S00117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìµ¦ð
+isquid:S00117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìµ¦ð
+isquid:S00117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é“žÞ
+isquid:S00117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é“žÞ
+nsquid:S00117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Û÷íþÿÿÿÿ
+nsquid:S00117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š®œ£øÿÿÿÿ
+isquid:S00117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öà¯³
+nsquid:S00117z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸´ù‡øÿÿÿÿ
+jsquid:S00117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öà¯³
+osquid:S00117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Û÷íþÿÿÿÿ
+osquid:S00117ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸´ù‡øÿÿÿÿ
+osquid:S00117Ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ý¼Õùÿÿÿÿ
+osquid:S00117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÎ­ƒùÿÿÿÿ
+osquid:S00117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÎ­ƒùÿÿÿÿ
+osquid:S00117ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÞýôÑøÿÿÿÿ
+jsquid:S00117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó³ºÅ
+@squid:S1148á"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+ksquid:S001006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·§ä•üÿÿÿÿ
+fsquid:S00100G"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é“žÞ
+3squid:S3626¢"Remove this redundant jump.(ûÁÝ…
+Nsquid:S2696©"6Make the enclosing method "static" or remove this set.(äŽ‹Æ
+Ssquid:S2696Ç"6Make the enclosing method "static" or remove this set.(³ŠÓìýÿÿÿÿ
+Gsquid:EmptyStatementUsageCheckÖ"Remove this empty statement.(¾×ýÓ
+Nsquid:S2696û"6Make the enclosing method "static" or remove this set.(¥ÛÅ™
+Nsquid:S2696§"6Make the enclosing method "static" or remove this set.(¥ÛÅ™
+\squid:S3398è"?Move this method into the anonymous class declared at line 157.(ÛÎ­ƒùÿÿÿÿ

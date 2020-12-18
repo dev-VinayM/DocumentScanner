@@ -1,0 +1,6 @@
+
+}"squid:ClassVariableVisibilityCheck"OMake val a static final constant or non-public and provide accessors if needed.(ÅÙ•®
+Osquid:S1197"8Move the array designator from the variable to the type.(ÅÙ•®
+osquid:S2975/"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Îê‰”øÿÿÿÿ
+dsquid:S1182/"HUse super.clone() to create and seed the cloned instance to be returned.(Îê‰”øÿÿÿÿ
+]squid:S1126Q"AReplace this if-then-else statement by a single return statement.(Öó“ãþÿÿÿÿ

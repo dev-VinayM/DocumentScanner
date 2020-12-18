@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorLightGrey"
+    tools:context=".view.MainActivity">
+
+    <TextView
+        app:layout_constraintTop_toTopOf="parent"
+        android:id="@+id/tv_screenTitle"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:textColor="@android:color/white"
+        android:textAllCaps="true"
+        android:textSize="22sp"
+        android:background="@color/colorPrimaryDark"
+        android:text="@string/all_images"
+        android:layout_height="?attr/actionBarSize"/>
+
+    <FrameLayout
+        android:id="@+id/fl_fragmentContainer"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="10dp"
+        app:layout_constraintBottom_toTopOf="@id/btn_openCamera"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tv_screenTitle" />
+
+    <Button
+        android:id="@+id/btn_openCamera"
+        android:text="@string/capture_image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:background="@color/colorPrimary"
+        android:textColor="@android:color/white"
+        app:layout_constraintTop_toBottomOf="@id/fl_fragmentContainer"
+        app:layout_constraintBottom_toBottomOf="parent"/>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

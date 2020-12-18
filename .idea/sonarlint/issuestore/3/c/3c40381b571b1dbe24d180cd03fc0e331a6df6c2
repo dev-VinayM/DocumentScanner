@@ -1,0 +1,34 @@
+
+lsquid:S1192"UDefine a constant instead of duplicating this literal "CameraGLRendererBase" 7 times.(èÅôÛ
+gsquid:S1192"PDefine a constant instead of duplicating this literal "void main() {\n" 3 times.(È„ÙÕ
+psquid:S1192"YDefine a constant instead of duplicating this literal "varying vec2 texCoord;\n" 3 times.(ˆÆß
+jsquid:S00117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å½Œö
+@squid:S1659A"$Declare "texFBO" on a separate line.(ú¢Â•ùÿÿÿÿ
+Asquid:S1659A"%Declare "texDraw" on a separate line.(ú¢Â•ùÿÿÿÿ
+@squid:S1659C"$Declare "prog2D" on a separate line.(€ıÌİøÿÿÿÿ
+;squid:S1659D"$Declare "vTCOES" on a separate line.(ó‹Ÿ’
+;squid:S1659D"$Declare "vPos2D" on a separate line.(ó‹Ÿ’
+:squid:S1659D"#Declare "vTC2D" on a separate line.(ó‹Ÿ’
+@squid:S1659F"$Declare "texOES" on a separate line.(Ñ´ÔØùÿÿÿÿ
+?squid:S1659F"#Declare "tex2D" on a separate line.(Ñ´ÔØùÿÿÿÿ
+Bsquid:S1659H"+Declare "mCameraHeight" on a separate line.(Ó›ÑÀ
+>squid:S1659I"(Declare "mFBOHeight" on a separate line.(©ı
+Jsquid:S1659J".Declare "mMaxCameraHeight" on a separate line.(É’¬úÿÿÿÿ
+8squid:S1170"!Make this final field static too.(èÅôÛ
+=squid:S1170"!Make this final field static too.(´ñ˜Ğûÿÿÿÿ
+=squid:S1170!"!Make this final field static too.(Šİ©äşÿÿÿÿ
+=squid:S1170)"!Make this final field static too.(åõëşÿÿÿÿ
+isquid:S00116"QRename this field "LOGTAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÅôÛ
+fsquid:S00116B"NRename this field "FBO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìæ
+Osquid:S11971"8Move the array designator from the variable to the type.(×œºÜ
+Nsquid:S11976"8Move the array designator from the variable to the type.(…Ö
+Osquid:S1197;"8Move the array designator from the variable to the type.(‚‹¢¨
+Ssquid:S1854ã";Remove this useless assignment to local variable "vshader".(·ç‚î
+Xsquid:S1854ï";Remove this useless assignment to local variable "fshader".(ööÑ‘úÿÿÿÿ
+Ssquid:S1854ü";Remove this useless assignment to local variable "program".(äô‹—
+Ssquid:S1854…";Remove this useless assignment to local variable "program".(äô‹—
+gsquid:CommentedOutCodeLineh"<This block of commented-out lines of code should be removed.(Ú¹Áåøÿÿÿÿ
+bsquid:CommentedOutCodeLineo"<This block of commented-out lines of code should be removed.(÷¯Öğ
+bsquid:CommentedOutCodeLine~"<This block of commented-out lines of code should be removed.(Ş€×Á
+hsquid:CommentedOutCodeLine‘"<This block of commented-out lines of code should be removed.(²¦çÓıÿÿÿÿ
+csquid:CommentedOutCodeLine¯"<This block of commented-out lines of code should be removed.(Œ‰¦

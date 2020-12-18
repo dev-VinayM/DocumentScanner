@@ -1,0 +1,19 @@
+
+usquid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(×Î×
+usquid:S1488-"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(Ø«®ü
+tsquid:S1488;"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(ïëì$
+zsquid:S1488I"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(¾€Êøÿÿÿÿ
+9squid:S1659""Declare "REAL" on a separate line.(‚¼ºî
+:squid:S1659"#Declare "LOGIT" on a separate line.(ùŸÜ’
+@squid:S1659"$Declare "GENTLE" on a separate line.(—èÆûÿÿÿÿ
+2squid:S3626Y"Remove this redundant jump.(ûÁİ…
+2squid:S3626g"Remove this redundant jump.(ûÁİ…
+2squid:S3626u"Remove this redundant jump.(ûÁİ…
+`"squid:ObjectFinalizeOverridenCheckz"-Do not override the Object.finalize() method.(ÖÒ˜Ùùÿÿÿÿ
+lsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ÏÏñùÿÿÿÿ
+gsquid:S00100„"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜­¦ı
+lsquid:S00100‡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—×²şÿÿÿÿ
+gsquid:S00100Š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Å›ğ
+lsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Œÿ¶ûÿÿÿÿ
+gsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ÑÕÎ
+gsquid:S00100“"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²‚’ò

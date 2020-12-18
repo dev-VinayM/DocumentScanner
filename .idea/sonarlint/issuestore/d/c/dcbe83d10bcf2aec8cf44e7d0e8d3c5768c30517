@@ -1,0 +1,18 @@
+
+hsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îí
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÍºüÿÿÿÿ
+hsquid:S00117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îí
+nsquid:S00117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÍºüÿÿÿÿ
+nsquid:S001171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÔ‚°úÿÿÿÿ
+nsquid:S001171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÔ‚°úÿÿÿÿ
+nsquid:S001172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÈ›©üÿÿÿÿ
+nsquid:S001172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÈ›©üÿÿÿÿ
+Tsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+Msquid:S1659"1Declare "CASCADE_SCALE_IMAGE" on a separate line.(×¬ÃÃüÿÿÿÿ
+Psquid:S1659"9Declare "CASCADE_FIND_BIGGEST_OBJECT" on a separate line.(Êå¡³
+Qsquid:S1659"5Declare "CASCADE_DO_ROUGH_SEARCH" on a separate line.(æø„Çùÿÿÿÿ
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(ô¥¨«şÿÿÿÿ
+2squid:S3626 "Remove this redundant jump.(ûÁİ…
+2squid:S3626*"Remove this redundant jump.(ûÁİ…
+ksquid:S001001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÔ‚°úÿÿÿÿ
+ksquid:S001002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÈ›©üÿÿÿÿ

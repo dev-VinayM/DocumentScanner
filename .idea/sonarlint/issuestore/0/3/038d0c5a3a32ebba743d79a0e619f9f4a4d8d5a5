@@ -1,0 +1,14 @@
+
+^squid:S001126"FDefine and throw a dedicated exception instead of using a generic one.(ÀğúŞ
+Usquid:S1155?">Use isEmpty() to check whether the collection is empty or not.(Ş«òœ
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(½¯Ğšøÿÿÿÿ
+wsquid:S00115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ï‰úàøÿÿÿÿ
+`squid:S1134"DTake the required action to fix the issue indicated by this comment.(’° èøÿÿÿÿ
+`squid:S1134"DTake the required action to fix the issue indicated by this comment.(’° èøÿÿÿÿ
+Nsquid:S11350"2Complete the task associated to this TODO comment.(Óíå˜üÿÿÿÿ
+Nsquid:S1135:"2Complete the task associated to this TODO comment.(µçØ·úÿÿÿÿ
+Osquid:S1197A"8Move the array designator from the variable to the type.(Æõëª
+Tsquid:S1197B"8Move the array designator from the variable to the type.(•À£¨üÿÿÿÿ
+psquid:S3012D"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¨¤òĞ
+Osquid:S1197J"8Move the array designator from the variable to the type.(£ìş
+psquid:S3012L"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Â¾

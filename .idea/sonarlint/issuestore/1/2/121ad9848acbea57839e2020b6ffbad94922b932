@@ -1,0 +1,10 @@
+
+6squid:S1700"Rename field "polygonView"(ù¼«ùşÿÿÿÿ
+jsquid:S00116²"QRename this field "DownPT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßöü²
+jsquid:S00116ş"QRename this field "DownPT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßöü²
+osquid:S3776¾"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Óı°ûÿÿÿÿ
+psquid:S00116³"RRename this field "StartPT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ğî şÿÿÿÿ
+usquid:S2293^"YReplace the type specification in this constructor call with the diamond operator ("<>").(£‘ºÍıÿÿÿÿ
+@squid:S1185ô"(Remove this method to simply inherit it.(ôó§è
+psquid:S00116ÿ"RRename this field "StartPT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ğî şÿÿÿÿ
+?squid:S1185Q"(Remove this method to simply inherit it.(Âø¸

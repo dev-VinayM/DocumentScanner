@@ -1,0 +1,48 @@
+
+H
+java:S1874"+Remove this use of "add"; it is deprecated.(ÓÊ·8ÄÕóäæ.
+Q
+java:S1874"4Remove this use of "setArguments"; it is deprecated.(ÑÍÛ•8ÄÕóäæ.
+Q
+java:S18745"4Remove this use of "setArguments"; it is deprecated.(ÑÍÛ•8ÄÕóäæ.
+K
+java:S1874".Remove this use of "commit"; it is deprecated.(ˆ¿ë–8ÄÕóäæ.
+Y
+java:S18746"7Remove this use of "FragmentManager"; it is deprecated.(¼Ğÿÿÿÿÿ8ÄÕóäæ.
+\
+java:S18746":Remove this use of "getFragmentManager"; it is deprecated.(¼Ğÿÿÿÿÿ8ÄÕóäæ.
+X
+java:S1874,"6Remove this use of "addToBackStack"; it is deprecated.(âŞ¶âşÿÿÿÿ8ÄÕóäæ.
+Y
+java:S1874"7Remove this use of "FragmentManager"; it is deprecated.(¼Ğÿÿÿÿÿ8ÄÕóäæ.
+\
+java:S1874":Remove this use of "getFragmentManager"; it is deprecated.(¼Ğÿÿÿÿÿ8ÄÕóäæ.
+Y
+java:S1874)"7Remove this use of "FragmentManager"; it is deprecated.(¼Ğÿÿÿÿÿ8ÄÕóäæ.
+]
+java:S1874*";Remove this use of "FragmentTransaction"; it is deprecated.(»ŒÈóùÿÿÿÿ8ÄÕóäæ.
+X
+java:S18749"6Remove this use of "addToBackStack"; it is deprecated.(ŸŠ®Ñıÿÿÿÿ8ÄÕóäæ.
+K
+java:S1874:".Remove this use of "commit"; it is deprecated.(ˆ¿ë–8ÄÕóäæ.
+Z
+java:S1874"8Remove this use of "beginTransaction"; it is deprecated.(»ŒÈóùÿÿÿÿ8ÄÕóäæ.
+]	java:S107o"<Method has 9 parameters, which is greater than 7 authorized.(·®„ûÿÿÿÿ8ÄÕóäæ.
+H
+java:S1874+"+Remove this use of "add"; it is deprecated.(ÓÊ·8ÄÕóäæ.
+Z
+java:S18747"8Remove this use of "beginTransaction"; it is deprecated.(»ŒÈóùÿÿÿÿ8ÄÕóäæ.
+H
+java:S18748"+Remove this use of "add"; it is deprecated.(ÓÊ·8ÄÕóäæ.
+Z
+java:S1874*"8Remove this use of "beginTransaction"; it is deprecated.(»ŒÈóùÿÿÿÿ8ÄÕóäæ.
+\
+java:S1874)":Remove this use of "getFragmentManager"; it is deprecated.(¼Ğÿÿÿÿÿ8ÄÕóäæ.
+K
+java:S1874-".Remove this use of "commit"; it is deprecated.(ˆ¿ë–8ÄÕóäæ.
+]
+java:S1874";Remove this use of "FragmentTransaction"; it is deprecated.(»ŒÈóùÿÿÿÿ8ÄÕóäæ.
+]
+java:S18747";Remove this use of "FragmentTransaction"; it is deprecated.(»ŒÈóùÿÿÿÿ8ÄÕóäæ.
+Q
+java:S1874("4Remove this use of "setArguments"; it is deprecated.(ÑÍÛ•8ÄÕóäæ.

@@ -1,0 +1,21 @@
+
+zsquid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(¬Ü¨Óúÿÿÿÿ
+usquid:S1488'"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(£ôñÇ
+zsquid:S14885"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(ìó¬ôşÿÿÿÿ
+usquid:S1488C"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(ËÎ¶
+usquid:S1488Q"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(¹‹Â©
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şıª‹ıÿÿÿÿ
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şıª‹ıÿÿÿÿ
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şıª‹ıÿÿÿÿ
+2squid:S3626a"Remove this redundant jump.(ûÁİ…
+2squid:S3626o"Remove this redundant jump.(ûÁİ…
+2squid:S3626}"Remove this redundant jump.(ûÁİ…
+a"squid:ObjectFinalizeOverridenCheck‚"-Do not override the Object.finalize() method.(ÖÒ˜Ùùÿÿÿÿ
+gsquid:S00100‰"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÈÏ
+lsquid:S00100Œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ÏÏñùÿÿÿÿ
+lsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š®Œ°üÿÿÿÿ
+gsquid:S00100’"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾®çü
+gsquid:S00100•"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆõ÷¨
+gsquid:S00100˜"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÚ–²
+lsquid:S00100›"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œËˆ”øÿÿÿÿ
+lsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şıª‹ıÿÿÿÿ

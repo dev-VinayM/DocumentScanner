@@ -1,0 +1,6 @@
+
+~"squid:ClassVariableVisibilityCheck"PMake type a static final constant or non-public and provide accessors if needed.(ϋφε©
+‚"squid:ClassVariableVisibilityCheck"TMake maxCount a static final constant or non-public and provide accessors if needed.(λµ‡
+"squid:ClassVariableVisibilityCheck"SMake epsilon a static final constant or non-public and provide accessors if needed.(ά¥†
+jsquid:S2975>"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ξ¬πΏ
+_squid:S1182>"HUse super.clone() to create and seed the cloned instance to be returned.(ξ¬πΏ

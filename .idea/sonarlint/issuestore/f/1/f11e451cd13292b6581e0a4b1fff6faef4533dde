@@ -1,0 +1,47 @@
+
+?squid:S1659"#Declare "CV_8S" on a separate line.(àý²Ôúÿÿÿÿ
+@squid:S1659"$Declare "CV_16U" on a separate line.(ÅËäÿÿÿÿÿ
+@squid:S1659"$Declare "CV_16S" on a separate line.(ÅËäÿÿÿÿÿ
+;squid:S1659	"$Declare "CV_32S" on a separate line.(¼ü‘·
+@squid:S1659
+"$Declare "CV_32F" on a separate line.(ÖêàŒøÿÿÿÿ
+@squid:S1659"$Declare "CV_64F" on a separate line.(èâžÌøÿÿÿÿ
+Esquid:S1659")Declare "CV_USRTYPE1" on a separate line.(éÊ‘ þÿÿÿÿ
+;squid:S1659"%Declare "CV_8UC2" on a separate line.(ï£ÖQ
+;squid:S1659"%Declare "CV_8UC3" on a separate line.(ï£ÖQ
+;squid:S1659"%Declare "CV_8UC4" on a separate line.(ï£ÖQ
+Asquid:S1659"%Declare "CV_8SC1" on a separate line.(šÐž•üÿÿÿÿ
+Asquid:S1659"%Declare "CV_8SC2" on a separate line.(šÐž•üÿÿÿÿ
+Asquid:S1659"%Declare "CV_8SC3" on a separate line.(šÐž•üÿÿÿÿ
+Asquid:S1659"%Declare "CV_8SC4" on a separate line.(šÐž•üÿÿÿÿ
+=squid:S1659"&Declare "CV_16UC1" on a separate line.(ôþ†­
+=squid:S1659"&Declare "CV_16UC2" on a separate line.(ôþ†­
+=squid:S1659"&Declare "CV_16UC3" on a separate line.(ôþ†­
+=squid:S1659"&Declare "CV_16UC4" on a separate line.(ôþ†­
+Bsquid:S1659"&Declare "CV_16SC1" on a separate line.(Ö¼Žøÿÿÿÿ
+Bsquid:S1659"&Declare "CV_16SC2" on a separate line.(Ö¼Žøÿÿÿÿ
+Bsquid:S1659"&Declare "CV_16SC3" on a separate line.(Ö¼Žøÿÿÿÿ
+Bsquid:S1659"&Declare "CV_16SC4" on a separate line.(Ö¼Žøÿÿÿÿ
+=squid:S1659"&Declare "CV_32SC1" on a separate line.(²àºÞ
+=squid:S1659"&Declare "CV_32SC2" on a separate line.(²àºÞ
+=squid:S1659"&Declare "CV_32SC3" on a separate line.(²àºÞ
+=squid:S1659"&Declare "CV_32SC4" on a separate line.(²àºÞ
+=squid:S1659"&Declare "CV_32FC1" on a separate line.(Á¤Ïï
+=squid:S1659"&Declare "CV_32FC2" on a separate line.(Á¤Ïï
+=squid:S1659"&Declare "CV_32FC3" on a separate line.(Á¤Ïï
+=squid:S1659"&Declare "CV_32FC4" on a separate line.(Á¤Ïï
+=squid:S1659"&Declare "CV_64FC1" on a separate line.(Ü•ý
+=squid:S1659"&Declare "CV_64FC2" on a separate line.(Ü•ý
+=squid:S1659"&Declare "CV_64FC3" on a separate line.(Ü•ý
+=squid:S1659"&Declare "CV_64FC4" on a separate line.(Ü•ý
+?squid:S1659")Declare "CV_CN_SHIFT" on a separate line.(Ì€ìx
+@squid:S1659"*Declare "CV_DEPTH_MAX" on a separate line.(Ì€ìx
+Qsquid:S1118":Add a private constructor to hide the implicit public one.(Ü¨¹æ
+ksquid:S00100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¥¡çøÿÿÿÿ
+fsquid:S00100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É…ÞÅ
+ksquid:S00100."NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œåÈ‚þÿÿÿÿ
+ksquid:S001002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÏžÒûÿÿÿÿ
+ksquid:S001006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ÅïÐúÿÿÿÿ
+fsquid:S00100:"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êê¶œ
+ksquid:S00100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÿ­Çøÿÿÿÿ
+ksquid:S00100N"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ô÷–ùÿÿÿÿ

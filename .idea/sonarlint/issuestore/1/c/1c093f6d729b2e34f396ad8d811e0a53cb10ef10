@@ -1,0 +1,44 @@
+
+usquid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(Òñî
+usquid:S1488-"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(“¯¦ü
+usquid:S1488;"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(ê÷Ä‚
+usquid:S1488I"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(É¼Å
+usquid:S1488W"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(Ó© è
+usquid:S1488e"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(ˆ¼·²
+zsquid:S1488s"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(öİøÿÿÿÿ
+usquid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(‡ş[
+vsquid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(ê¼²˜
+{squid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(êİî±úÿÿÿÿ
+osquid:S00117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÖ„Œúÿÿÿÿ
+Esquid:S1659")Declare "PREDICT_SUM" on a separate line.(İƒÊÀşÿÿÿÿ
+Jsquid:S1659".Declare "PREDICT_MAX_VOTE" on a separate line.( Ÿ‡×øÿÿÿÿ
+Fsquid:S1659"*Declare "PREDICT_MASK" on a separate line.(Êï«éşÿÿÿÿ
+3squid:S3626­"Remove this redundant jump.(ûÁİ…
+3squid:S3626»"Remove this redundant jump.(ûÁİ…
+3squid:S3626É"Remove this redundant jump.(ûÁİ…
+3squid:S3626×"Remove this redundant jump.(ûÁİ…
+3squid:S3626å"Remove this redundant jump.(ûÁİ…
+3squid:S3626ó"Remove this redundant jump.(ûÁİ…
+3squid:S3626"Remove this redundant jump.(ûÁİ…
+3squid:S3626"Remove this redundant jump.(ûÁİ…
+3squid:S3626"Remove this redundant jump.(ûÁİ…
+a"squid:ObjectFinalizeOverridenCheck¢"-Do not override the Object.finalize() method.(ÖÒ˜Ùùÿÿÿÿ
+fsquid:S00100©"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìù·2
+lsquid:S00100¬"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ÏÏñùÿÿÿÿ
+gsquid:S00100¯"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø ûì
+lsquid:S00100²"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÕˆúÿÿÿÿ
+lsquid:S00100µ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Ö†üÿÿÿÿ
+lsquid:S00100¸"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÓœıÿÿÿÿ
+lsquid:S00100»"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²®Ááÿÿÿÿÿ
+gsquid:S00100¾"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğˆ£„
+lsquid:S00100Á"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§÷¤úÿÿÿÿ
+gsquid:S00100Ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãé¡§
+gsquid:S00100Ç"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ß¯‘
+gsquid:S00100Ê"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Ô‘½
+lsquid:S00100Í"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…÷¾üÿÿÿÿ
+gsquid:S00100Ğ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–©çš
+lsquid:S00100Ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÖ„Œúÿÿÿÿ
+lsquid:S00100Ö"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÁâúÿÿÿÿ
+lsquid:S00100Ù"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€™î“úÿÿÿÿ
+gsquid:S00100Ü"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğş£í
+lsquid:S00100ß"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Ÿúéûÿÿÿÿ

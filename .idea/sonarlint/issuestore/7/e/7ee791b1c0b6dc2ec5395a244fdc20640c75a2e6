@@ -1,0 +1,11 @@
+
+€"squid:ClassVariableVisibilityCheck"RMake center a static final constant or non-public and provide accessors if needed.(ó¸‹€
+ƒ"squid:ClassVariableVisibilityCheck"PMake size a static final constant or non-public and provide accessors if needed.(ò›»¶úÿÿÿÿ
+„"squid:ClassVariableVisibilityCheck"QMake angle a static final constant or non-public and provide accessors if needed.(÷ëõÂøÿÿÿÿ
+isquid:S00117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ï
+Osquid:S1197+"8Move the array designator from the variable to the type.(ÇèÂì
+Esquid:S1905.")Remove this unnecessary cast to "double".(Ç„Úşúÿÿÿÿ
+Esquid:S1905/")Remove this unnecessary cast to "double".(Ì£±«úÿÿÿÿ
+Osquid:S1197D"8Move the array designator from the variable to the type.(…û‹¡
+osquid:S2975O"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ãÜÖ˜øÿÿÿÿ
+dsquid:S1182O"HUse super.clone() to create and seed the cloned instance to be returned.(ãÜÖ˜øÿÿÿÿ

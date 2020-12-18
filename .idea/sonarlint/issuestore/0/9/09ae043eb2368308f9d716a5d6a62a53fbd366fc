@@ -1,0 +1,67 @@
+
+psquid:S1192ñ"XDefine a constant instead of duplicating this literal "Input Mat can't be null" 6 times.(±©„È
+xsquid:S1192Ÿ"[Define a constant instead of duplicating this literal "Output List can't be null" 12 times.(‰Ğİåüÿÿÿÿ
+Dsquid:S1199'"-Extract this nested code block into a method.(¹Í¨ì
+Isquid:S11993"-Extract this nested code block into a method.(İ‘ªËùÿÿÿÿ
+Dsquid:S1199?"-Extract this nested code block into a method.(Õ™êã
+Dsquid:S1199e"-Extract this nested code block into a method.(¹Í¨ì
+Isquid:S1199r"-Extract this nested code block into a method.(İ‘ªËùÿÿÿÿ
+Dsquid:S1199"-Extract this nested code block into a method.(Õ™êã
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(ÂÁÔûÿÿÿÿ
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í´™¼ÿÿÿÿÿ
+fsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°‘Š³
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÛ¤Çÿÿÿÿÿ
+fsquid:S00100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©”˜­
+fsquid:S00100T"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•è÷Ú
+fsquid:S00100X"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Èğû
+fsquid:S00100\"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­Úªù
+ksquid:S00100`"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ûÃÎøÿÿÿÿ
+lsquid:S00100•"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ…Ì‹ÿÿÿÿÿ
+lsquid:S00100™"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í©‘™ÿÿÿÿÿ
+gsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤£ì£
+gsquid:S00100¾"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùøş
+lsquid:S00100Â"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È¼ÇÜıÿÿÿÿ
+gsquid:S00100Æ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È•¥†
+gsquid:S00100Ê"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íá£
+lsquid:S00100ë"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë÷Â‡şÿÿÿÿ
+lsquid:S00100ı"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»‚Æˆşÿÿÿÿ
+lsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏãÍŠøÿÿÿÿ
+lsquid:S00100Ÿ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªıÿÿÿÿÿ
+qsquid:S3012«"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ôµÿ
+gsquid:S00100¯"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûíı²
+lsquid:S00100À"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óĞÎ—ıÿÿÿÿ
+vsquid:S3012Ì"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(À²Ô²üÿÿÿÿ
+lsquid:S00100Ğ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Âã™ıÿÿÿÿ
+fsquid:S00100á"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ­Ô&
+lsquid:S00100ò"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•÷âÓşÿÿÿÿ
+vsquid:S3012ş"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(È¶İÑşÿÿÿÿ
+lsquid:S00100‚"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾¢úÅúÿÿÿÿ
+qsquid:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(éâŒÆ
+gsquid:S00100’"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òø¹‘
+lsquid:S00100¦"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ×Üæùÿÿÿÿ
+gsquid:S00100¶"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÅ¼à
+gsquid:S00100Í"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÄ“ÿ
+gsquid:S00100ß"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÂÿ
+fsquid:S00100ì"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ãc
+vsquid:S2293ó"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯áÊ•øÿÿÿÿ
+lsquid:S00100ş"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é½Å—ûÿÿÿÿ
+vsquid:S2293…"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯áÊ•øÿÿÿÿ
+lsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ÑÕºûÿÿÿÿ
+fsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÖ4
+vsquid:S2293¥"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯áÊ•øÿÿÿÿ
+lsquid:S00100°"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê ³ùÿÿÿÿ
+gsquid:S00100¾"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õìÌ¸
+lsquid:S00100Ë"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©åÉùÿÿÿÿ
+vsquid:S2293Ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯áÊ•øÿÿÿÿ
+lsquid:S00100Ü"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€˜ÙÉøÿÿÿÿ
+gsquid:S00100í"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰öƒ
+qsquid:S3012ù"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¾¢¿‘
+lsquid:S00100ı"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø«ë”ùÿÿÿÿ
+gsquid:S00100‘"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§É’°
+gsquid:S00100¢"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áøß
+gsquid:S00100¯"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É Â
+vsquid:S2293¶"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯áÊ•øÿÿÿÿ
+gsquid:S00100Â"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îêú‰
+gsquid:S00100Ï"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êå¤È
+vsquid:S2293Ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯áÊ•øÿÿÿÿ
+qsquid:S2293Ù"YReplace the type specification in this constructor call with the diamond operator ("<>").(Í¨Ã÷

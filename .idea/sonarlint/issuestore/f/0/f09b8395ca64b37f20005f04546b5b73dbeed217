@@ -1,0 +1,22 @@
+
+usquid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(àü÷‡
+zsquid:S1488&"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(–ÇêÍşÿÿÿÿ
+usquid:S14884"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(“éÔÄ
+zsquid:S1488B"^Immediately return this expression instead of assigning it to the temporary variable "retVal".(Ô²ì©øÿÿÿÿ
+nsquid:S00117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£É­’úÿÿÿÿ
+isquid:S00117w"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘½åí
+jsquid:S00117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£è×’
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼©Ïùÿÿÿÿ
+2squid:S3626R"Remove this redundant jump.(ûÁİ…
+2squid:S3626`"Remove this redundant jump.(ûÁİ…
+2squid:S3626n"Remove this redundant jump.(ûÁİ…
+2squid:S3626|"Remove this redundant jump.(ûÁİ…
+a"squid:ObjectFinalizeOverridenCheck"-Do not override the Object.finalize() method.(ÖÒ˜Ùùÿÿÿÿ
+gsquid:S00100ˆ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛûÅ¼
+fsquid:S00100‹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Ã¬(
+gsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş‹Ï–
+lsquid:S00100‘"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âûÃÁüÿÿÿÿ
+gsquid:S00100”"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡¢¹ü
+gsquid:S00100—"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßšÚ„
+gsquid:S00100š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£è×’
+lsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼©Ïùÿÿÿÿ
